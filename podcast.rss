@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:607593882/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:607593882/sounds.rss?before=597141087" rel="next" type="application/rss+xml"/>
+        <title>Mobile People Talks</title>
+        <link>http://soundcloud.com/mobilepeopletalks</link>
+        <pubDate>Thu, 11 Apr 2019 07:09:49 +0000</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2019 07:09:49 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ru</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Mobile People Talks — подкаст про мобильную разработку. И все остальное.
+Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности).
+Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли. 
+ 
+Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:
+ 
+Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM
+Facebook: https://www.facebook.com/alde0615
+Telegram: t.me/aleksandr_denisov (группа: t.me/gdgnn)
+Email: denisov.shureg@gmail.com
+ 
+Владимир Иванов, активный спикер, член программного комитета Mobius 
+Twitter: twitter.com/vvsevolodovich
+Telegram: t.me/vvsevolodovich
+ 
+Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast
+Telegram: t.me/krlrozov (канал: t.me/android_broadcast)
+SchoolKt: https://bkug.by/course/
+Email: krlrozov@gmail.com
+ 
+Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки
+Telegram: t.me/edeniska (канал: t.me/AppleDevNews)
+Twitter: twitter.com/edeniska
+Email: edeniska@gmail.com
+ 
+У подкаста есть свой канал: t.me/MobilePeopleTalks, а еще нам можно написать по почте mobilepeopletalks@gmail.com</description>
+        <itunes:subtitle>Mobile People Talks — подкаст про мобильную разра…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Mobile People Talks</itunes:name>
+          <itunes:email>mobilepeopletalks@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Mobile People Talks</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000609680496-d5i8vf-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000609680496-d5i8vf-original.jpg</url>
+          <title>Mobile People Talks</title>
+          <link>http://soundcloud.com/mobilepeopletalks</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/603999015</guid>
+      <title>Flutter</title>
+      <pubDate>Thu, 11 Apr 2019 07:10:55 +0000</pubDate>
+      <link>https://soundcloud.com/mobilepeopletalks/flutter</link>
+      <itunes:duration>01:04:40</itunes:duration>
+      <itunes:author>Mobile People Talks</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mobile People Talks - есть ли будущее у Flutter?
+ 
+Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.
+ 
+Пишите нам: mobilepeopletalks@gmail.com</itunes:summary>
+      <itunes:subtitle>Mobile People Talks - есть ли будущее у Flutter?
+…</itunes:subtitle>
+      <description>Mobile People Talks - есть ли будущее у Flutter?
+ 
+Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.
+ 
+Пишите нам: mobilepeopletalks@gmail.com</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/603999015-mobilepeopletalks-flutter.mp3" length="93593722"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000518087787-ssfdhu-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/597141087</guid>
+      <title>Introduction</title>
+      <pubDate>Thu, 28 Mar 2019 06:31:25 +0000</pubDate>
+      <link>https://soundcloud.com/mobilepeopletalks/intro</link>
+      <itunes:duration>01:02:22</itunes:duration>
+      <itunes:author>Mobile People Talks</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mobile People Talks – знакомство с подкастом
+ 
+Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
+ 
+Пишите нам: mobilepeopletalks@gmail.com</itunes:summary>
+      <itunes:subtitle>Mobile People Talks – знакомство с подкастом
+ 
+Эт…</itunes:subtitle>
+      <description>Mobile People Talks – знакомство с подкастом
+ 
+Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
+ 
+Пишите нам: mobilepeopletalks@gmail.com</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/597141087-mobilepeopletalks-intro.mp3" length="90980051"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000516821895-9c08x0-original.jpg"/>
+    </item>
+      </channel>
+    </rss>
