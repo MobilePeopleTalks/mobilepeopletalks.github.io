@@ -10,23 +10,23 @@
         <copyright>All rights reserved</copyright>
         <itunes:summary>Mobile People Talks — подкаст про мобильную разработку. И все остальное.
 
-            Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности).
-            Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.
-            Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:
+Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности).
+Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.
+Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:
 
-            Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM:
-            Facebook: https://www.facebook.com/alde0615, Telegram: https://t.me/aleksandr_denisov (группа: https://t.me/gdgnn), email: denisov.shureg@gmail.com
+Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM:
+Facebook: https://www.facebook.com/alde0615, Telegram: https://t.me/aleksandr_denisov (группа: https://t.me/gdgnn), email: denisov.shureg@gmail.com
 
-            Владимир Иванов, активный спикер, член программного комитета Mobius:
-            Twitter: https://twitter.com/vvsevolodovich, Telegram: https://t.me/vvsevolodovich
+Владимир Иванов, активный спикер, член программного комитета Mobius:
+Twitter: https://twitter.com/vvsevolodovich, Telegram: https://t.me/vvsevolodovich
 
-            Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast:
-            Telegram: https://t.me/krlrozov (канал https://t.me/android_broadcast), SchoolKt https://bkug.by/course/, email: krlrozov@gmail.com
+Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast:
+Telegram: https://t.me/krlrozov (канал https://t.me/android_broadcast), SchoolKt https://bkug.by/course/, email: krlrozov@gmail.com
 
-            Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки:
-            Telegram: https://t.me/edeniska(канал https://t.me/AppleDevNews), Twitter: https://twitter.com/edeniska, email: edeniska@gmail.com
+Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки:
+Telegram: https://t.me/edeniska(канал https://t.me/AppleDevNews), Twitter: https://twitter.com/edeniska, email: edeniska@gmail.com
 
-            У подкаста есть свой канал - https://t.me/MobilePeopleTalks, а еще нам можно написать по почте mobilepeopletalks@gmail.com
+У подкаста есть свой канал - https://t.me/MobilePeopleTalks, а еще нам можно написать по почте mobilepeopletalks@gmail.com
         </itunes:summary>
         <content:encoded>
             <![CDATA[<p>Mobile People Talks — подкаст про мобильную разработку. И все остальное.</p>
@@ -77,16 +77,16 @@
             <itunes:subtitle>Mobile People Talks – знакомство с подкастом</itunes:subtitle>
             <itunes:summary>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
 
-                Пишите нам: mobilepeopletalks@gmail.com
+Пишите нам: mobilepeopletalks@gmail.com
 
-                Ведущие подкаста:
-                Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
+Ведущие подкаста:
+Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
 
-                Владимир Иванов, активный спикер, член программного комитета Mobius,
+Владимир Иванов, активный спикер, член программного комитета Mobius,
 
-                Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
+Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
 
-                Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
+Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
             </itunes:summary>
             <content:encoded>
                 <![CDATA[<p>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.</p>
@@ -114,16 +114,16 @@
             <itunes:subtitle>Есть ли будущее у Flutter?</itunes:subtitle>
             <itunes:summary>Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.
 
-                Пишите нам: mobilepeopletalks@gmail.com
+Пишите нам: mobilepeopletalks@gmail.com
 
-                Ведущие подкаста:
-                Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
+Ведущие подкаста:
+Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
 
-                Владимир Иванов, активный спикер, член программного комитета Mobius,
+Владимир Иванов, активный спикер, член программного комитета Mobius,
 
-                Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
+Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
 
-                Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
+Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
             </itunes:summary>
             <content:encoded>
                 <![CDATA[<p>Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.</p>
