@@ -43,6 +43,33 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/597141087</guid>
+            <title>Знакомство с подкастом</title>
+            <pubDate>Thu, 28 Mar 2019 06:31:25 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/intro</link>
+            <itunes:duration>01:02:22</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:subtitle>Mobile People Talks – знакомство с подкастом</itunes:subtitle>
+            <itunes:summary>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
+
+                Пишите нам: mobilepeopletalks@gmail.com
+
+                Ведущие подкаста:
+                Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
+
+                Владимир Иванов, активный спикер, член программного комитета Mobius,
+
+                Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
+
+                Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
+            </itunes:summary>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/597141087-mobilepeopletalks-intro.mp3" length="90980051"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000516821895-9c08x0-original.jpg"/>
+        </item>
+        <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/603999015</guid>
             <title>Есть ли будущее у Flutter?</title>
             <pubDate>Thu, 11 Apr 2019 07:10:55 +0000</pubDate>
@@ -68,33 +95,6 @@
             </itunes:summary>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/603999015-mobilepeopletalks-flutter.mp3" length="93593722"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000518087787-ssfdhu-original.png"/>
-        </item>
-        <item>
-            <guid isPermaLink="false">tag:soundcloud,2010:tracks/597141087</guid>
-            <title>Знакомство с подкастом</title>
-            <pubDate>Thu, 28 Mar 2019 06:31:25 +0000</pubDate>
-            <link>https://soundcloud.com/mobilepeopletalks/intro</link>
-            <itunes:duration>01:02:22</itunes:duration>
-            <itunes:author>Mobile People Talks</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>1</itunes:episode>
-            <itunes:subtitle>Mobile People Talks – знакомство с подкастом</itunes:subtitle>
-            <itunes:summary>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
-
-                Пишите нам: mobilepeopletalks@gmail.com
-                
-                Ведущие подкаста:
-                Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM,
-
-                Владимир Иванов, активный спикер, член программного комитета Mobius,
-
-                Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast,
-
-                Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
-            </itunes:summary>
-            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/597141087-mobilepeopletalks-intro.mp3" length="90980051"/>
-            <itunes:image href="http://i1.sndcdn.com/artworks-000516821895-9c08x0-original.jpg"/>
         </item>
     </channel>
 </rss>
