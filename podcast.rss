@@ -8,28 +8,9 @@
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>All rights reserved</copyright>
-        <itunes:summary><content:encoded>
-            <![CDATA[<p>Mobile People Talks — подкаст про мобильную разработку. И все остальное.
-                <p>Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности).</p>
-                <p>Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.</p>
-                <p>Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:</p>
-                <p>Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM -
-                <a href="https://www.facebook.com/alde0615">Facebook</a>,
-                <a href="https://t.me/aleksandr_denisov">Telegram @aleksandr_denisov</a> (<a href="https://t.me/gdgnn">группа GDG NN</a>),
-                <a href="mailto:denisov.shureg@gmail.com">denisov.shureg@gmail.com</a>.</p>
-                <p>Владимир Иванов, активный спикер, член программного комитета Mobius -
-                <a href="https://twitter.com/vvsevolodovich">Twitter @vvsevolodovich</a>,
-                <a href="t.me/vvsevolodovich">Telegram @vvsevolodovich</a>.</p>
-                <p>Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast -
-                <a href="https://t.me/krlrozov">Telegram @krlrozov</a> (<a href="https://t.me/android_broadcast">канал Android Broadcast</a>)
-                <a href="https://bkug.by/course/">SchoolKt</a>,
-                <a href="mailto:krlrozov@gmail.com">krlrozov@gmail.com</a>.</p>
-                <p>Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки -
-                <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">канал Apple Developer News</a>),
-                <a href="https://twitter.com/edeniska">Twitter @edeniska</a>,
-                <a href="mailto:edeniska@gmail.com">edeniska@gmail.com</a>.</p>
-                <p>У подкаста есть <a href="https://t.me/MobilePeopleTalks">свой канал</a>, а еще нам можно написать по почте <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>]]>
-        </content:encoded></itunes:summary>
+        <itunes:summary>Mobile People Talks — подкаст про мобильную разработку. И все остальное. 
+            Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности).
+            Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.</itunes:summary>
         <description>
             <content:encoded>
                 <![CDATA[<p>Mobile People Talks — подкаст про мобильную разработку. И все остальное.
@@ -79,11 +60,7 @@
             <itunes:season>1</itunes:season>
             <itunes:episode>2</itunes:episode>
             <itunes:subtitle>Есть ли будущее у Flutter?</itunes:subtitle>
-            <itunes:summary><content:encoded>
-                <![CDATA[<p>Есть ли будущее у Flutter?</p>
-                    <p>Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.</p>
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>]]>
-            </content:encoded></itunes:summary>
+            <itunes:summary>Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.</itunes:summary>
             <description>
                 <content:encoded>
                     <![CDATA[<p>Есть ли будущее у Flutter?</p>
@@ -105,11 +82,7 @@
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
             <itunes:subtitle>Mobile People Talks – знакомство с подкастом</itunes:subtitle>
-            <itunes:summary><content:encoded>
-                <![CDATA[<p>Mobile People Talks – знакомство с подкастом</p>
-                    <p>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.</p>
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>]]>
-            </content:encoded></itunes:summary>
+            <itunes:summary>Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте)), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.</itunes:summary>
             <description>
                 <content:encoded>
                     <![CDATA[<p>Mobile People Talks – знакомство с подкастом</p>
