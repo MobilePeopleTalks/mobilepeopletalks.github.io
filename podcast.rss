@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 12 Apr 2019 11:29:49 +0000</pubDate>
-        <lastBuildDate>Thu, 12 Apr 2019 11:29:49 +0000</lastBuildDate>
+        <pubDate>Sun, 28 Apr 2019 11:29:49 +0000</pubDate>
+        <lastBuildDate>Sun, 28 Apr 2019 11:29:49 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -128,6 +128,36 @@
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/603999015-mobilepeopletalks-flutter.mp3" length="93593722"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000518087787-ssfdhu-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/607501122</guid>
+            <title>Public Talks</title>
+            <pubDate>Fri, 26 Apr 2019 09:18:02 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/public-talks</link>
+            <itunes:duration>00:52:38</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>В этот раз мы решили обсудить такую тему как конференции, митапы и прочие публичные выступления. Зачем ходить на все эти мероприятия, если в офисе хорошо, тепло и мухи не кусают? И зачем вообще здравомыслящему человеку может понадобится выступать с докладами? Зачем делиться с таким трудом накопленной экспертизой с другими? Ну а если все-таки решился, то с чего же начать?
+                
+                А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.
+
+                Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>О конференциях, митапах и прочих публичных выступлениях.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[В этот раз мы решили обсудить такую тему как конференции, митапы и прочие публичные выступления. Зачем ходить на все эти мероприятия, если в офисе хорошо, тепло и мухи не кусают? И зачем вообще здравомыслящему человеку может понадобится выступать с докладами? Зачем делиться с таким трудом накопленной экспертизой с другими? Ну а если все-таки решился, то с чего же начать?
+                    <p>А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.</p>
+                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
+                    <p>Ведущие подкаста:</p>
+                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
+                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
+                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
+                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/607501122-mobilepeopletalks-public-talks.mp3" length="76260166"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000521868495-97dmuv-original.png"/>
         </item>
     </channel>
 </rss>
