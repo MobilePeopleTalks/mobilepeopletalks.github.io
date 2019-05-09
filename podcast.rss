@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Sun, 28 Apr 2019 11:29:49 +0000</pubDate>
-        <lastBuildDate>Sun, 28 Apr 2019 11:29:49 +0000</lastBuildDate>
+        <pubDate>Thu, 09 May 2019 19:26:44 +0000</pubDate>
+        <lastBuildDate>Thu, 09 May 2019 19:26:44 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -158,6 +158,34 @@
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/607501122-mobilepeopletalks-public-talks.mp3" length="76260166"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000521868495-97dmuv-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/618209664</guid>
+            <title>React Native</title>
+            <pubDate>Thu, 09 May 2019 19:26:44 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/react-native</link>
+            <itunes:duration>01:08:02</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>Пришла очередь Владимира выступить в роли допрашиваемого, а остальные ведущие без устали пытаются выяснить у него о React Native все, что можно! В каких случаях стоит использовать React Native, какие есть преимущества по сравнению с Flutter, ну и, конечно, когда же уже будет релиз? И будет ли он когда-нибудь?
+
+                Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>React Native - быть или не быть.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Пришла очередь Владимира выступить в роли допрашиваемого, а остальные ведущие без устали пытаются выяснить у него о React Native все, что можно!
+                    <p>В каких случаях стоит использовать React Native, какие есть преимущества по сравнению с Flutter, ну и, конечно, когда же уже будет релиз? И будет ли он когда-нибудь?</p>
+                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
+                    <p>Ведущие подкаста:</p>
+                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
+                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
+                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
+                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/618209664-mobilepeopletalks-react-native.mp3" length="98444348"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000532416798-3baq97-original.png"/>
         </item>
     </channel>
 </rss>
