@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 09 May 2019 19:26:44 +0000</pubDate>
-        <lastBuildDate>Thu, 09 May 2019 19:26:44 +0000</lastBuildDate>
+        <pubDate>Thu, 23 May 2019 19:26:44 +0000</pubDate>
+        <lastBuildDate>Thu, 23 May 2019 19:26:44 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -186,6 +186,33 @@
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/618209664-mobilepeopletalks-react-native.mp3" length="98444348"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000532416798-3baq97-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/624900210</guid>
+            <title>Android Q</title>
+            <pubDate>Thu, 23 May 2019 19:26:44 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/android-q-po-sledam-google-io-19</link>
+            <itunes:duration>01:08:02</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>В начале мая в солнечной Калифорнии прошла самая большая Google-конференция - Google I/O, в связи с этим, Александр. который туда ездил, очень хочет рассказать как там было весело, но Кирилл перехватывает инициативу и разговор плавно уходит в технологические дебри. Чем Pixel 3a отличается от Pixel 3, что нового появилось в Android Q, почему Котлин захватит мир, что команда JetPack позаимствовала у Flutter, ну и, конечно, не обошлось без гадания, что же значит это пресловутое Q?
+
+                Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>По следам Google I/O 19</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[В начале мая в солнечной Калифорнии прошла самая большая Google-конференция - Google I/O, в связи с этим, Александр. который туда ездил, очень хочет рассказать как там было весело, но Кирилл перехватывает инициативу и разговор плавно уходит в технологические дебри. Чем Pixel 3a отличается от Pixel 3, что нового появилось в Android Q, почему Котлин захватит мир, что команда JetPack позаимствовала у Flutter, ну и, конечно, не обошлось без гадания, что же значит это пресловутое Q?
+                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
+                    <p>Ведущие подкаста:</p>
+                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
+                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
+                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
+                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/624900210-mobilepeopletalks-android-q-po-sledam-google-io-19.mp3" length="98444348"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000539725323-shxos5-original.png"/>
         </item>
     </channel>
 </rss>
