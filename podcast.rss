@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 23 May 2019 19:26:44 +0000</pubDate>
-        <lastBuildDate>Thu, 23 May 2019 19:26:44 +0000</lastBuildDate>
+        <pubDate>Thu, 06 Jun 2019 23:03:26 +0000</pubDate>
+        <lastBuildDate>Thu, 06 Jun 2019 23:03:26 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -213,6 +213,38 @@
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/624900210-mobilepeopletalks-android-q-po-sledam-google-io-19.mp3" length="98444348"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000539725323-shxos5-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/632896635</guid>
+            <title>WWDC19</title>
+            <pubDate>Thu, 06 Jun 2019 23:03:26 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/wwdc19</link>
+            <itunes:duration>00:38:25</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>Специальный выпуск - прямо с WWDC19. Эпизод записан в студии подкастов Apple.
+                Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. Новый фреймворк для построения интерфейсов, реактивщина от Apple, новая терка и многое другое - обсуждаем и пытаемся осмыслить прямо на месте.
+                Гости подкаста:
+                Анастасия Золотых - https://t.me/kotvaska https://twitter.com/kotvaska
+                Игорь Малеваный -  https://youtube.com/c/justdev https://t.me/multimediasuite
+                Иван Парфенчук - https://t.me/parfenchuk https://twitter.com/parfenchuk https://instagram.com/parfenchuk
+                
+                Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Специальный выпуск - прямо с WWDC19. Эпизод записан в студии подкастов Apple.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[<p>Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. А новинок огромная куча. Это и новый фреймворк для построения интерфейсов, и реактивщина от Apple, и даже новая терка, а также многое другое - обсуждаем и пытаемся осмыслить прямо на месте.</p>
+                    <p>Гости подкаста:</p>
+                    <p>Анастасия Золотых, <a href="https://t.me/kotvaska">Telegram</a>, <a href="https://twitter.com/kotvaska">Twitter</a>.</p>
+                    <p>Игорь Малеваный, <a href="https://youtube.com/c/justdev">видеоблог</a>, <a href="https://t.me/multimediasuite">Telegram</a>, <a href="https://instagram.com/multimediasuite">Instagram</a>.</p>
+                    <p>Иван Парфенчук, <a href="https://t.me/parfenchuk">Telegram</a>, <a href="https://twitter.com/parfenchuk">Twitter</a>, <a href="https://instagram.com/parfenchuk">Instagram</a>.
+                    <p>Ведущий подкаста - <a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/632896635-mobilepeopletalks-wwdc19.mp3" length="55788202"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000547976616-kar9xz-original.png"/>
         </item>
     </channel>
 </rss>
