@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 06 Jun 2019 23:03:26 +0000</pubDate>
-        <lastBuildDate>Thu, 06 Jun 2019 23:03:26 +0000</lastBuildDate>
+        <pubDate>Fri, 21 Jun 2019 08:28:17 +0000</pubDate>
+        <lastBuildDate>Fri, 21 Jun 2019 08:28:17 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -20,26 +20,26 @@
 У подкаста есть свой канал - https://t.me/MobilePeopleTalks, а еще нам можно написать по почте mobilepeopletalks@gmail.com
         </description>
         <content:encoded>
-            <![CDATA[Mobile People Talks — подкаст про мобильную разработку. И все остальное.
-                <p>Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности.</p>
-                <p>Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.</p>
-                <p>Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:</p>
-                <p>Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM -
+            <![CDATA[Mobile People Talks — подкаст про мобильную разработку. И все остальное.<br/><br/>
+Так что если вы не мобильный разработчик, не спешите закрывать страничку – разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности.<br/><br/>
+Хочется надеяться, что подкаст станет регулярным ресурсом, который поможет вам создавать лучшие приложения и продвигать их более эффективно, так как всегда есть место для роста экспертизы в мобильной разработке, учитывая сложный характер этой отрасли.<br/><br/>
+Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:<br/>
+Александр Денисов, организатор GDG Nizhny Novgorod, Co-Head of Flutter Competency in EPAM -
                 <a href="https://www.facebook.com/alde0615">Facebook</a>,
                 <a href="https://t.me/aleksandr_denisov">Telegram @aleksandr_denisov</a> (<a href="https://t.me/gdgnn">группа GDG NN</a>),
-                <a href="mailto:denisov.shureg@gmail.com">denisov.shureg@gmail.com</a>.</p>
-                <p>Владимир Иванов, активный спикер, член программного комитета Mobius -
+                <a href="mailto:denisov.shureg@gmail.com">denisov.shureg@gmail.com</a>.<br/>
+Владимир Иванов, активный спикер, член программного комитета Mobius -
                 <a href="https://twitter.com/vvsevolodovich">Twitter @vvsevolodovich</a>,
-                <a href="t.me/vvsevolodovich">Telegram @vvsevolodovich</a>.</p>
-                <p>Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast -
+                <a href="t.me/vvsevolodovich">Telegram @vvsevolodovich</a>.<br/>
+Кирилл Розов, организатор GDG Minsk и SchoolKt, автор канала об Android разработке Android Broadcast -
                 <a href="https://t.me/krlrozov">Telegram @krlrozov</a> (<a href="https://t.me/android_broadcast">канал Android Broadcast</a>)
                 <a href="https://bkug.by/course/">SchoolKt</a>,
                 <a href="mailto:krlrozov@gmail.com">krlrozov@gmail.com</a>.</p>
-                <p>Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки -
+Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки -
                 <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">канал Apple Developer News</a>),
                 <a href="https://twitter.com/edeniska">Twitter @edeniska</a>,
-                <a href="mailto:edeniska@gmail.com">edeniska@gmail.com</a>.</p>
-                <p>У подкаста есть <a href="https://t.me/MobilePeopleTalks">свой канал</a>, а еще нам можно написать по почте <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>]]>
+                <a href="mailto:edeniska@gmail.com">edeniska@gmail.com</a>.<br/><br/>
+У подкаста есть <a href="https://t.me/MobilePeopleTalks">свой канал</a>, а еще нам можно написать по почте <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.]]>
         </content:encoded>
         <itunes:subtitle>Подкаст про мобильную разработку. И все остальное.</itunes:subtitle>
         <itunes:owner>
@@ -80,13 +80,13 @@
 Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
             </description>
             <content:encoded>
-                <![CDATA[Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте )), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
-                    <p>Ведущие подкаста:</p>
-                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
-                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
-                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
-                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                <![CDATA[Это первый выпуск нашего подкаста, в котором мы, как бы это не показалось странным,  представляемся и рассказываем о нашем подкасте )), кроме того, мы обсуждаем конференцию Google I/O, ожидания от предстоящего I/O 2019, и, само собой, ожидания от Android Q, который будет там представлен. Ну и не обошлось без Fuchsia, куда же без нее.<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
                 ]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/597141087-mobilepeopletalks-intro.mp3" length="90980051"/>
@@ -117,14 +117,13 @@
 Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
             </description>
             <content:encoded>
-                <![CDATA[Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
-                    <p>Ведущие подкаста:</p>
-                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
-                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
-                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
-                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
-                ]]>
+                <![CDATA[Александр пытается рассказать про Flutter, но благодаря активному участию остальных ведущих, рассказ плавно перетекает в перекрестный допрос! Тем не менее, на этом допросе мы узнаем чем кроссплатформенные инструменты отличаются от мультиплатформенных, почему не Kotlin, что Flutter слизал с React, и, наконец, зачем вообще для Flutter понадобился Dart.<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/603999015-mobilepeopletalks-flutter.mp3" length="93593722"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000518087787-ssfdhu-original.png"/>
@@ -141,19 +140,19 @@
             <itunes:episode>3</itunes:episode>
             <description>В этот раз мы решили обсудить такую тему как конференции, митапы и прочие публичные выступления. Зачем ходить на все эти мероприятия, если в офисе хорошо, тепло и мухи не кусают? И зачем вообще здравомыслящему человеку может понадобится выступать с докладами? Зачем делиться с таким трудом накопленной экспертизой с другими? Ну а если все-таки решился, то с чего же начать?
                 
-                А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.
+А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.
 
-                Пишите нам: mobilepeopletalks@gmail.com</description>
+Пишите нам: mobilepeopletalks@gmail.com</description>
             <itunes:subtitle>О конференциях, митапах и прочих публичных выступлениях.</itunes:subtitle>
             <content:encoded>
-                <![CDATA[В этот раз мы решили обсудить такую тему как конференции, митапы и прочие публичные выступления. Зачем ходить на все эти мероприятия, если в офисе хорошо, тепло и мухи не кусают? И зачем вообще здравомыслящему человеку может понадобится выступать с докладами? Зачем делиться с таким трудом накопленной экспертизой с другими? Ну а если все-таки решился, то с чего же начать?
-                    <p>А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.</p>
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
-                    <p>Ведущие подкаста:</p>
-                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
-                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
-                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
-                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                <![CDATA[В этот раз мы решили обсудить такую тему как конференции, митапы и прочие публичные выступления. Зачем ходить на все эти мероприятия, если в офисе хорошо, тепло и мухи не кусают? И зачем вообще здравомыслящему человеку может понадобится выступать с докладами? Зачем делиться с таким трудом накопленной экспертизой с другими? Ну а если все-таки решился, то с чего же начать?<br/>
+А так как все ведущие частенько участвуют во всяческих ивентах, и как учасстники, и как спикеры или эксперты, то у каждого есть, что рассказать и чем поделиться.<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
                 ]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/607501122-mobilepeopletalks-public-talks.mp3" length="76260166"/>
@@ -171,17 +170,17 @@
             <itunes:episode>4</itunes:episode>
             <description>Пришла очередь Владимира выступить в роли допрашиваемого, а остальные ведущие без устали пытаются выяснить у него о React Native все, что можно! В каких случаях стоит использовать React Native, какие есть преимущества по сравнению с Flutter, ну и, конечно, когда же уже будет релиз? И будет ли он когда-нибудь?
 
-                Пишите нам: mobilepeopletalks@gmail.com</description>
+Пишите нам: mobilepeopletalks@gmail.com</description>
             <itunes:subtitle>React Native - быть или не быть.</itunes:subtitle>
             <content:encoded>
-                <![CDATA[Пришла очередь Владимира выступить в роли допрашиваемого, а остальные ведущие без устали пытаются выяснить у него о React Native все, что можно!
-                    <p>В каких случаях стоит использовать React Native, какие есть преимущества по сравнению с Flutter, ну и, конечно, когда же уже будет релиз? И будет ли он когда-нибудь?</p>
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
-                    <p>Ведущие подкаста:</p>
-                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
-                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
-                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
-                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                <![CDATA[Пришла очередь Владимира выступить в роли допрашиваемого, а остальные ведущие без устали пытаются выяснить у него о React Native все, что можно!<br/>
+В каких случаях стоит использовать React Native, какие есть преимущества по сравнению с Flutter, ну и, конечно, когда же уже будет релиз? И будет ли он когда-нибудь?<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
                 ]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/618209664-mobilepeopletalks-react-native.mp3" length="98444348"/>
@@ -199,16 +198,16 @@
             <itunes:episode>5</itunes:episode>
             <description>В начале мая в солнечной Калифорнии прошла самая большая Google-конференция - Google I/O, в связи с этим, Александр. который туда ездил, очень хочет рассказать как там было весело, но Кирилл перехватывает инициативу и разговор плавно уходит в технологические дебри. Чем Pixel 3a отличается от Pixel 3, что нового появилось в Android Q, почему Котлин захватит мир, что команда JetPack позаимствовала у Flutter, ну и, конечно, не обошлось без гадания, что же значит это пресловутое Q?
 
-                Пишите нам: mobilepeopletalks@gmail.com</description>
+Пишите нам: mobilepeopletalks@gmail.com</description>
             <itunes:subtitle>По следам Google I/O 19</itunes:subtitle>
             <content:encoded>
-                <![CDATA[В начале мая в солнечной Калифорнии прошла самая большая Google-конференция - Google I/O, в связи с этим, Александр. который туда ездил, очень хочет рассказать как там было весело, но Кирилл перехватывает инициативу и разговор плавно уходит в технологические дебри. Чем Pixel 3a отличается от Pixel 3, что нового появилось в Android Q, почему Котлин захватит мир, что команда JetPack позаимствовала у Flutter, ну и, конечно, не обошлось без гадания, что же значит это пресловутое Q?
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
-                    <p>Ведущие подкаста:</p>
-                    <p><a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.</p>
-                    <p><a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.</p>
-                    <p><a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.</p>
-                    <p><a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
+                <![CDATA[В начале мая в солнечной Калифорнии прошла самая большая Google-конференция - Google I/O, в связи с этим, Александр. который туда ездил, очень хочет рассказать как там было весело, но Кирилл перехватывает инициативу и разговор плавно уходит в технологические дебри. Чем Pixel 3a отличается от Pixel 3, что нового появилось в Android Q, почему Котлин захватит мир, что команда JetPack позаимствовала у Flutter, ну и, конечно, не обошлось без гадания, что же значит это пресловутое Q?<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
                 ]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/624900210-mobilepeopletalks-android-q-po-sledam-google-io-19.mp3" length="98444348"/>
@@ -225,26 +224,56 @@
             <itunes:season>1</itunes:season>
             <itunes:episode>6</itunes:episode>
             <description>Специальный выпуск - прямо с WWDC19. Эпизод записан в студии подкастов Apple.
-                Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. Новый фреймворк для построения интерфейсов, реактивщина от Apple, новая терка и многое другое - обсуждаем и пытаемся осмыслить прямо на месте.
-                Гости подкаста:
-                Анастасия Золотых - https://t.me/kotvaska https://twitter.com/kotvaska
-                Игорь Малеваный -  https://youtube.com/c/justdev https://t.me/multimediasuite
-                Иван Парфенчук - https://t.me/parfenchuk https://twitter.com/parfenchuk https://instagram.com/parfenchuk
+Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. Новый фреймворк для построения интерфейсов, реактивщина от Apple, новая терка и многое другое - обсуждаем и пытаемся осмыслить прямо на месте.
+
+Гости подкаста:
+Анастасия Золотых - https://t.me/kotvaska https://twitter.com/kotvaska
+Игорь Малеваный -  https://youtube.com/c/justdev https://t.me/multimediasuite
+Иван Парфенчук - https://t.me/parfenchuk https://twitter.com/parfenchuk https://instagram.com/parfenchuk
                 
-                Пишите нам: mobilepeopletalks@gmail.com</description>
+Пишите нам: mobilepeopletalks@gmail.com</description>
             <itunes:subtitle>Специальный выпуск - прямо с WWDC19. Эпизод записан в студии подкастов Apple.</itunes:subtitle>
             <content:encoded>
-                <![CDATA[<p>Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. А новинок огромная куча. Это и новый фреймворк для построения интерфейсов, и реактивщина от Apple, и даже новая терка, а также многое другое - обсуждаем и пытаемся осмыслить прямо на месте.</p>
-                    <p>Гости подкаста:</p>
-                    <p>Анастасия Золотых, <a href="https://t.me/kotvaska">Telegram</a>, <a href="https://twitter.com/kotvaska">Twitter</a>.</p>
-                    <p>Игорь Малеваный, <a href="https://youtube.com/c/justdev">видеоблог</a>, <a href="https://t.me/multimediasuite">Telegram</a>, <a href="https://instagram.com/multimediasuite">Instagram</a>.</p>
-                    <p>Иван Парфенчук, <a href="https://t.me/parfenchuk">Telegram</a>, <a href="https://twitter.com/parfenchuk">Twitter</a>, <a href="https://instagram.com/parfenchuk">Instagram</a>.
-                    <p>Ведущий подкаста - <a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.</p>
-                    <p>Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
+                <![CDATA[<p>Это первый выпуск, в котором мы пригласили гостей. Вместе с ними Данис и обсудил новинки WWDC19. А новинок огромная куча. Это и новый фреймворк для построения интерфейсов, и реактивщина от Apple, и даже новая терка, а также многое другое - обсуждаем и пытаемся осмыслить прямо на месте.<br/><br/>
+Гости подкаста:<br/>
+Анастасия Золотых, <a href="https://t.me/kotvaska">Telegram</a>, <a href="https://twitter.com/kotvaska">Twitter</a>.<br/>
+Игорь Малеваный, <a href="https://youtube.com/c/justdev">видеоблог</a>, <a href="https://t.me/multimediasuite">Telegram</a>, <a href="https://instagram.com/multimediasuite">Instagram</a>.<br/>
+Иван Парфенчук, <a href="https://t.me/parfenchuk">Telegram</a>, <a href="https://twitter.com/parfenchuk">Twitter</a>, <a href="https://instagram.com/parfenchuk">Instagram</a>.<br/>
+Ведущий подкаста - <a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.<br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.</p>
                 ]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/632896635-mobilepeopletalks-wwdc19.mp3" length="55788202"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000547976616-kar9xz-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/629816727</guid>
+            <title>Асинхронность – знаешь что об этом ты?</title>
+            <pubDate>Fri, 21 Jun 2019 08:28:17 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/asynchronous-1</link>
+            <itunes:duration>00:53:25</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>Первоначальной идеей выпуска было обсуждение асиннхронности, подходов и решений со всех, так сказать, четырех сторон. Сначала обсудить нативные темы, а потом обсудить кроссплатформенные решения. И начиналось все вроде бы хорошо, обсудили многопоточность, классические проблемы, языки, которые живут без этого, но потом Данис с Кириллом так увлеклись беседой о сходствах и различиях асинхронных подходов в Android и iOS, что на Flutter и React Native просто тупо не хватило времени! Так что придется делать два выпуска по цене одного! Асинхронность Flutter vs ReactNative ждите в следующем!
+А здесь: Queue vs Thread, Kotlin Coroutines vs RxJava, Completion/Progress Handlers и Java Concurrency, и даже немного про асинхронные возможности современных процессоров! Enjoy!
+            
+            Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Хотели быстро обсудить асинхронность на всех платформах. Но увлеклись. Так что будет два выпуска по цене одного.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Первоначальной идеей выпуска было обсуждение асиннхронности, подходов и решений со всех, так сказать, четырех сторон. Сначала обсудить нативные темы, а потом обсудить кроссплатформенные решения. И начиналось все вроде бы хорошо, обсудили многопоточность, классические проблемы, языки, которые живут без этого, но потом Данис с Кириллом так увлеклись беседой о сходствах и различиях асинхронных подходов в Android и iOS, что на Flutter и React Native просто тупо не хватило времени! Так что придется делать два выпуска по цене одного! Асинхронность Flutter vs ReactNative ждите в следующем!<br/><br/>
+А здесь: Queue vs Thread, Kotlin Coroutines vs RxJava, Completion/Progress Handlers и Java Concurrency, и даже немного про асинхронные возможности современных процессоров! Enjoy!<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/629816727-mobilepeopletalks-asynchronous-1.mp3" length="77401774"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000544799199-21xwp8-original.png"/>
         </item>
     </channel>
 </rss>
