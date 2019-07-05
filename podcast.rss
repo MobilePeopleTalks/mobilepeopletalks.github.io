@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 21 Jun 2019 08:28:17 +0000</pubDate>
-        <lastBuildDate>Fri, 21 Jun 2019 08:28:17 +0000</lastBuildDate>
+        <pubDate>Fri, 05 Jul 2019 05:41:25 +0000</pubDate>
+        <lastBuildDate>Fri, 05 Jul 2019 05:41:25 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -259,7 +259,7 @@
             <description>Первоначальной идеей выпуска было обсуждение асиннхронности, подходов и решений со всех, так сказать, четырех сторон. Сначала обсудить нативные темы, а потом обсудить кроссплатформенные решения. И начиналось все вроде бы хорошо, обсудили многопоточность, классические проблемы, языки, которые живут без этого, но потом Данис с Кириллом так увлеклись беседой о сходствах и различиях асинхронных подходов в Android и iOS, что на Flutter и React Native просто тупо не хватило времени! Так что придется делать два выпуска по цене одного! Асинхронность Flutter vs ReactNative ждите в следующем!
 А здесь: Queue vs Thread, Kotlin Coroutines vs RxJava, Completion/Progress Handlers и Java Concurrency, и даже немного про асинхронные возможности современных процессоров! Enjoy!
             
-            Пишите нам: mobilepeopletalks@gmail.com</description>
+Пишите нам: mobilepeopletalks@gmail.com</description>
             <itunes:subtitle>Хотели быстро обсудить асинхронность на всех платформах. Но увлеклись. Так что будет два выпуска по цене одного.</itunes:subtitle>
             <content:encoded>
                 <![CDATA[Первоначальной идеей выпуска было обсуждение асиннхронности, подходов и решений со всех, так сказать, четырех сторон. Сначала обсудить нативные темы, а потом обсудить кроссплатформенные решения. И начиналось все вроде бы хорошо, обсудили многопоточность, классические проблемы, языки, которые живут без этого, но потом Данис с Кириллом так увлеклись беседой о сходствах и различиях асинхронных подходов в Android и iOS, что на Flutter и React Native просто тупо не хватило времени! Так что придется делать два выпуска по цене одного! Асинхронность Flutter vs ReactNative ждите в следующем!<br/><br/>
@@ -274,6 +274,43 @@
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/629816727-mobilepeopletalks-asynchronous-1.mp3" length="77401774"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000544799199-21xwp8-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/645798111</guid>
+            <title>Асинхронность – знаешь что об этом ты? Vol. 2</title>
+            <pubDate>Fri, 05 Jul 2019 05:41:25 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/asynchronous-2</link>
+            <itunes:duration>00:44:12</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <description>А вот и вторая часть дебатов за асинхронность. Здесь ведущие продолжают разговор с того места, где остановились в прошлый раз.
+Александр рассказывает про ситуацию с Flutter, а Владимир с ReactNative. Кирилл с Данисом не дремлют и задают каверзные вопросы, благодаря которым какие-то вещи приходится копать прямо в процессе записи подкаста!
+А еще есть небольшой анонс в конце. Не пропустите!
+                
+Доклад Кирилла про корутины: https://youtu.be/3iwDgpU7DB8
+RS Conf: https://rsconf.by/schedule.html
+                
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Поговорили про асинхронность во Flutter и ReactNative.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[А вот и вторая часть дебатов за асинхронность. Здесь ведущие продолжают разговор с того места, где остановились в прошлый раз.<br/>
+Александр рассказывает про ситуацию с Flutter, а Владимир с ReactNative. Кирилл с Данисом не дремлют и задают каверзные вопросы, благодаря которым какие-то вещи приходится копать прямо в процессе записи подкаста!<br/>
+А еще есть небольшой анонс в конце. Не пропустите!<br/><br/>
+                    
+<a href="https://youtu.be/3iwDgpU7DB8">Доклад Кирилла</a> про корутины.<br/>
+<a href="https://rsconf.by/schedule.html">Расписание RS Conf</a>.<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/645798111-mobilepeopletalks-asynchronous-2.mp3" length="64133869"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000561193896-tq6mbr-original.png"/>
         </item>
     </channel>
 </rss>
