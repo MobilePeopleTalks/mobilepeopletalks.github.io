@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 05 Jul 2019 05:41:25 +0000</pubDate>
-        <lastBuildDate>Fri, 05 Jul 2019 05:41:25 +0000</lastBuildDate>
+        <pubDate>Fri, 19 Jul 2019 06:28:31 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Jul 2019 06:28:31 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -311,6 +311,34 @@ RS Conf: https://rsconf.by/schedule.html
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/645798111-mobilepeopletalks-asynchronous-2.mp3" length="64133869"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000561193896-tq6mbr-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/652131575</guid>
+            <title>Декларативный UI, часть первая – SwiftUI</title>
+            <pubDate>Fri, 19 Jul 2019 06:28:31 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/swiftui</link>
+            <itunes:duration>00:57:47</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <description>В этом году были представлены фреймворки с новым подходом к построению UI - SwiftUI для платформ Apple и Jetpack Compose для Android. Но ведь подход не нов, если посмотреть на него внимательно, то сразу видны уши таких кросс-платформенных фреймворков, как Flutter и React Native. Ведущие решили, что такой серьезный вброс в экосистемы непременно нужно подробно обсудить, чем и занялись в этом выпуске! С начала все ведущие активно наседают на Даниса и выясняют принципы работы со SwiftUI, ну и, как обычно, увлекаются настолько, что на Android времени не хватает. Результат - опять два по цене одного, про Jetpack Compose в следующем выпуске, а сегодня – SwiftUI!
+                
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Мы хотели поговорить про декларативный подход, про SwiftUI и Jetpack Compose. Но, как всегда, держим марку – увлеклись. Jetpack Compose обсудим в следующий раз.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[В этом году были представлены фреймворки с новым подходом к построению UI - SwiftUI для платформ Apple и Jetpack Compose для Android. Но ведь подход не нов, если посмотреть на него внимательно, то сразу видны уши таких кросс-платформенных фреймворков, как Flutter и React Native. Ведущие решили, что такой серьезный вброс в экосистемы непременно нужно подробно обсудить, чем и занялись в этом выпуске! С начала все ведущие активно наседают на Даниса и выясняют принципы работы со SwiftUI, ну и, как обычно, увлекаются настолько, что на Android времени не хватает. Результат - опять два по цене одного, про Jetpack Compose в следующем выпуске, а сегодня – SwiftUI!<br/><br/>
+                    
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/652131575-mobilepeopletalks-swiftui.mp3" length="83679939"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000568159502-f9h6ya-original.png"/>
         </item>
     </channel>
 </rss>
