@@ -340,5 +340,48 @@ RS Conf: https://rsconf.by/schedule.html
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/652131575-mobilepeopletalks-swiftui.mp3" length="83679939"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000568159502-f9h6ya-original.png"/>
         </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/658751066</guid>
+            <title>Декларативный UI, часть вторая – Jetpack Compose</title>
+            <pubDate>Thu, 01 Aug 2019 18:19:07 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/jetpack-compose</link>
+            <itunes:duration>00:58:23</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <description>В прошлый раз ведущие увлеклись и не закончили разговор про декларативный UI, поэтому этот выпуск должен был быть полностью посвящен Jetpack Compose, но в начале выпуска ведущие внезапно решают немного посамопиариться, поэтому в течении пяти минут рассказывают о конференциях, на которых в ближайшее время подкаст будет представлен (на всякий случай, для тех,  кто решит промотать эту часть, информация о конференциях будет продублирована в канале) [смайлик]
+
+После этого ведущие понимают, что пора и честь знать, и все-таки начинают обсуждать заявленное!
+
+Если вам интересно, как взять и запилить что-то на Compose, как создать кастомный View, что там с lifecycle, насколько технология готова к production и многое другое - слушать обязательно!
+
+В конце, вишенкой на торте, ведущие пытаются делать выводы о влиянии новых подходов на Flutter и ReactNative экосистемы и подводят итог прошедшего сезона. Да! Это финал сезона, ведущие тоже хотят отдыхать) Мы вернемся в новом сезоне, осенью, с новыми силами и новой концепцией!
+
+Установка Jetpack Compose: https://www.raywenderlich.com/3604589-jetpack-compose-primer
+Прием докладов на Mobius: https://mobiusconf.com/cfp
+Промокод для билетов на Mobius: Mobius19MskMobilePeopleTalks
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Фреймворк от Google, немного самопиара. И, да – это финал сезона. С сюрпризом внутри.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[В прошлый раз увлекшись ведущие не закончили разговор про декларативный UI, поэтому этот выпуск должен был быть полностью посвящен Jetpack Compose, но в начале выпуска ведущие внезапно решают немного посамопиариться, поэтому в течении пяти минут рассказывают о конференциях, на которых в ближайшее время подкаст будет представлен (на всякий случай, для тех,  кто решит промотать эту часть, информация о конференциях будет продублирована в канале) [смайлик]<br/><br/>
+После этого ведущие понимают, что пора и честь знать, и все-таки начинают обсуждать заявленное!<br/><br/>
+Если вам интересно, как взять и запилить что-то на Compose, как создать кастомный View, что там с lifecycle, насколько технология готова к production и многое другое - слушать обязательно!<br/><br/>
+В конце, вишенкой на торте, ведущие пытаются делать выводы о влиянии новых подходов на Flutter и ReactNative экосистемы и подводят итог прошедшего сезона. Да! Это финал сезона, ведущие тоже хотят отдыхать) Мы вернемся в новом сезоне, осенью, с новыми силами и новой концепцией!<br/><br/>
+<a href="https://www.raywenderlich.com/3604589-jetpack-compose-primer">Установка Jetpack Compose</a><br/><br/>
+<a href="https://mobiusconf.com/cfp">Прием докладов на Mobius</a><br/><br/>
+Промокод для билетов на Mobius: <b>Mobius19MskMobilePeopleTalks</b><br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор GDG Minsk и SchoolKt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.
+                ]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/658751066-mobilepeopletalks-jetpack-compose.mp3" length="84535711"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000575060060-4hxn1y-original.png"/>
+        </item>
     </channel>
 </rss>
