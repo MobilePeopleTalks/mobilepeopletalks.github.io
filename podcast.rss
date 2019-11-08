@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Tue, 15 Oct 2019 09:17:53 +0000</pubDate>
-        <lastBuildDate>Tue, 15 Oct 2019 09:17:53 +0000</lastBuildDate>
+        <pubDate>Fri, 08 Nov 2019 09:35:40 +0000</pubDate>
+        <lastBuildDate>Fri, 08 Nov 2019 09:35:40 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -435,6 +435,49 @@ Podlodka: https://t.me/podlodka
               </content:encoded>
               <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/695875384-mobilepeopletalks-mobile-developer-growth.mp3" length="95271410"/>
               <itunes:image href="http://i1.sndcdn.com/artworks-000612529714-tnxx9s-original.png"/>
-            </item>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/708354043</guid>
+            <title>Android Dev Summit</title>
+            <pubDate>Fri, 08 Nov 2019 09:35:40 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/android-dev-summit</link>
+            <itunes:duration>01:00:43</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Ведущим Mobile People Talks очень зашла тема с гостями, потому что иногда помолчать и послушать гостя очень здорово, тем более что один из ведущих может вообще не приходить на запись, а спокойно себе отдыхать где-то в офисе и писать код. Поэтому встречаем второго гостя подкаста - Ксению Шумельчик.
+
+Ксения работает в Google London на позиции Partner Developer Advocate, а кого звать в выпуск для обсуждения Android Dev Summit, если не гуглера? Тем более, что раньше она была Android Google Developer Expert.
+                   
+Несмотря на небольшие технические неполадки, выпуск таки был записан! Правда Данис постоянно пытается ввернуть что-то про iOS, а Александр про Flutter, но все-таки Кириллу с Ксюшей удается обсудить новости в Android мире и не только.
+
+Ведущие обсуждают с гостьей погоду в Лондоне, последние слухи о том что покажут на следующем Google IO, ну и конечно новости с Android Dev Summit (и не только технические): перезапуск Android Dev Challenge, Jetpack Compose, новая Android Studio 4.0 и Android Gradle Plugin, следующая версия Android и апдейты Google Play, а напоследок даже пытаются хитростью выведать, а вдруг для Android 10 все таки был предназначен десерт?
+
+Kseniia Shumelchyk: https://twitter.com/KseniiaS
+Android Dev Summit: https://developer.android.com/dev-summit
+Google Issue Tracker: http://issuetracker.google.com/
+                  
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Что ждет экосистему Android?</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Ведущим Mobile People Talks очень зашла тема с гостями, потому что иногда помолчать и послушать гостя очень здорово, тем более что один из ведущих может вообще не приходить на запись, а спокойно себе отдыхать где-то в офисе и писать код. Поэтому встречаем второго гостя подкаста - Ксению Шумельчик.<br/><br/>
+Ксения работает в Google London на позиции Partner Developer Advocate, а кого звать в выпуск для обсуждения Android Dev Summit, если не гуглера? Тем более, что раньше она была Android Google Developer Expert.<br/><br/>
+Несмотря на небольшие технические неполадки, выпуск таки был записан! Правда Данис постоянно пытается ввернуть что-то про iOS, а Александр про Flutter, но все-таки Кириллу с Ксюшей удается обсудить новости в Android мире и не только.<br/><br/>
+Ведущие обсуждают с гостьей погоду в Лондоне, последние слухи о том что покажут на следующем Google IO, ну и конечно новости с Android Dev Summit (и не только технические): перезапуск Android Dev Challenge, Jetpack Compose, новая Android Studio 4.0 и Android Gradle Plugin, следующая версия Android и апдейты Google Play, а напоследок даже пытаются хитростью выведать, а вдруг для Android 10 все таки был предназначен десерт?<br/><br/>
+Ссылочки, по которым возможно захочется перейти после выпуска:<br/><br/>
+Ксения Шумальчик: <a href="https://twitter.com/KseniiaS">Twitter</a><br/><br/>
+<a href="https://developer.android.com/dev-summit">Android Dev Summit</a><br/><br/>
+<a href="http://issuetracker.google.com/">Google Issue Tracker</a><br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/708354043-mobilepeopletalks-android-dev-summit.mp3" length="87924315"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000630239371-8swknt-original.png"/>
+        </item>
     </channel>
 </rss>
