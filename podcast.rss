@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 08 Nov 2019 09:35:40 +0000</pubDate>
-        <lastBuildDate>Fri, 08 Nov 2019 09:35:40 +0000</lastBuildDate>
+        <pubDate>Thu, 28 Nov 2019 07:59:48 +0000</pubDate>
+        <lastBuildDate>Thu, 28 Nov 2019 07:59:48 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -479,5 +479,51 @@ Google Issue Tracker: http://issuetracker.google.com/
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/708354043-mobilepeopletalks-android-dev-summit.mp3" length="87924315"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000630239371-8swknt-original.png"/>
         </item>
+         <item>
+              <guid isPermaLink="false">tag:soundcloud,2010:tracks/719644228</guid>
+              <title>Android NDK и C++</title>
+              <pubDate>Thu, 28 Nov 2019 07:59:48 +0000</pubDate>
+              <link>https://soundcloud.com/mobilepeopletalks/android-ndk-i-c</link>
+              <itunes:duration>00:48:19</itunes:duration>
+              <itunes:author>Mobile People Talks</itunes:author>
+              <itunes:explicit>no</itunes:explicit>
+              <itunes:season>2</itunes:season>
+              <itunes:episode>2</itunes:episode>
+              <description>На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.
+
+А, стоп, Александр, кроме всех перечисленных титулов, еще и член программного комитета DevFest SIberia, который, кстати, пройдет на днях в Новосибирске, поэтому не обходится без обсуждений нескольких прошедших и предстоящих конференций, но все быстро перемещается к техническим вопросам, которых, наверняка, так ждали все слушатели.
+
+Некоторым из ведущих приходится признать, что они имеют достаточно смутное представление об Android NDK, и что же собственно с его помощью можно делать. Они начинают выяснять подробности, потихоньку погружаясь все глубже и глубже, в процессе выясняя много интересного: какие приложения невозможно написать без NDK, какие есть бенефиты, есть ли какие-то проблемы с Gradle. И, наконец, зачем вообще нужен C++, если есть Kotlin Native.
+
+Еще диалог периодически скатывается то в кросс-платформу (как же не сравнить Qt c Flutter), то в сравнении “плюсов” со всеми современными языками, то еще в какие-то дебри. В результате всего этого, рождается главный вопрос выпуска: если С++ так хорош, то почему на нем не пишут все?
+
+ЗЫ: После этого выпуска все ведущие резко решают сменить профиль и писать только на C++ (НЕ ПРАВДА).
+
+Александр Ефременков: https://twitter.com/iamironz
+C++ reference: https://cppreference.com
+Android NDK reference: https://developer.android.com/ndk/reference
+                                
+Пишите нам: mobilepeopletalks@gmail.com</description>
+              <itunes:subtitle>Для чего нужен и для чего не нужен Android NDK или что мы еще не знали про C++</itunes:subtitle>
+              <content:encoded>
+                  <![CDATA[На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.<br/><br/>
+А, стоп, Александр, кроме всех перечисленных титулов, еще и член программного комитета DevFest SIberia, который, кстати, пройдет на днях в Новосибирске, поэтому не обходится без обсуждений нескольких прошедших и предстоящих конференций, но все быстро перемещается к техническим вопросам, которых, наверняка, так ждали все слушатели.<br/><br/>
+Некоторым из ведущих приходится признать, что они имеют достаточно смутное представление об Android NDK, и что же собственно с его помощью можно делать. Они начинают выяснять подробности, потихоньку погружаясь все глубже и глубже, в процессе выясняя много интересного: какие приложения невозможно написать без NDK, какие есть бенефиты, есть ли какие-то проблемы с Gradle. И, наконец, зачем вообще нужен C++, если есть Kotlin Native.<br/><br/>
+Еще диалог периодически скатывается то в кросс-платформу (как же не сравнить Qt c Flutter), то в сравнении “плюсов” со всеми современными языками, то еще в какие-то дебри. В результате всего этого, рождается главный вопрос выпуска: если С++ так хорош, то почему на нем не пишут все?<br/><br/>
+ЗЫ: После этого выпуска все ведущие резко решают сменить профиль и писать только на C++ (НЕ ПРАВДА).<br/><br/>
+Полезные ссылки:<br/><br/>
+Александр Ефременков: <a href="https://twitter.com/iamironz">Twitter</a><br/><br/>
+<a href="https://cppreference.com">С++ reference</a><br/><br/>
+<a href="https://developer.android.com/ndk/reference">Android NDK reference</a><br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+              </content:encoded>
+              <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/719644228-mobilepeopletalks-android-ndk-i-c.mp3" length="70056001"/>
+              <itunes:image href="http://i1.sndcdn.com/artworks-000644177167-6bv1nh-original.png"/>
+         </item>
     </channel>
 </rss>
