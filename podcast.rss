@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 28 Nov 2019 07:59:48 +0000</pubDate>
-        <lastBuildDate>Thu, 28 Nov 2019 07:59:48 +0000</lastBuildDate>
+        <pubDate>Thu, 28 Nov 2019 08:19:48 +0000</pubDate>
+        <lastBuildDate>Thu, 28 Nov 2019 08:19:48 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -482,13 +482,13 @@ Google Issue Tracker: http://issuetracker.google.com/
          <item>
               <guid isPermaLink="false">tag:soundcloud,2010:tracks/719644228</guid>
               <title>Android NDK и C++</title>
-              <pubDate>Thu, 28 Nov 2019 07:59:48 +0000</pubDate>
+              <pubDate>Thu, 28 Nov 2019 08:19:48 +0000</pubDate>
               <link>https://soundcloud.com/mobilepeopletalks/android-ndk-i-c</link>
               <itunes:duration>00:48:19</itunes:duration>
               <itunes:author>Mobile People Talks</itunes:author>
               <itunes:explicit>no</itunes:explicit>
               <itunes:season>2</itunes:season>
-              <itunes:episode>2</itunes:episode>
+              <itunes:episode>3</itunes:episode>
               <description>На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.
 
 А, стоп, Александр, кроме всех перечисленных титулов, еще и член программного комитета DevFest SIberia, который, кстати, пройдет на днях в Новосибирске, поэтому не обходится без обсуждений нескольких прошедших и предстоящих конференций, но все быстро перемещается к техническим вопросам, которых, наверняка, так ждали все слушатели.
