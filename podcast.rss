@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 28 Nov 2019 08:19:48 +0000</pubDate>
-        <lastBuildDate>Thu, 28 Nov 2019 08:19:48 +0000</lastBuildDate>
+        <pubDate>Thu, 05 Dec 2019 06:43:27 +0000</pubDate>
+        <lastBuildDate>Thu, 05 Dec 2019 06:43:27 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -479,17 +479,17 @@ Google Issue Tracker: http://issuetracker.google.com/
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/708354043-mobilepeopletalks-android-dev-summit.mp3" length="87924315"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000630239371-8swknt-original.png"/>
         </item>
-         <item>
-              <guid isPermaLink="false">tag:soundcloud,2010:tracks/719644228</guid>
-              <title>Android NDK и C++</title>
-              <pubDate>Thu, 28 Nov 2019 08:19:48 +0000</pubDate>
-              <link>https://soundcloud.com/mobilepeopletalks/android-ndk-i-c</link>
-              <itunes:duration>00:48:19</itunes:duration>
-              <itunes:author>Mobile People Talks</itunes:author>
-              <itunes:explicit>no</itunes:explicit>
-              <itunes:season>2</itunes:season>
-              <itunes:episode>3</itunes:episode>
-              <description>На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/719644228</guid>
+            <title>Android NDK и C++</title>
+            <pubDate>Thu, 28 Nov 2019 08:19:48 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/android-ndk-i-c</link>
+            <itunes:duration>00:48:19</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.
 
 А, стоп, Александр, кроме всех перечисленных титулов, еще и член программного комитета DevFest SIberia, который, кстати, пройдет на днях в Новосибирске, поэтому не обходится без обсуждений нескольких прошедших и предстоящих конференций, но все быстро перемещается к техническим вопросам, которых, наверняка, так ждали все слушатели.
 
@@ -505,9 +505,9 @@ C++ reference: https://cppreference.com
 Android NDK reference: https://developer.android.com/ndk/reference
                                 
 Пишите нам: mobilepeopletalks@gmail.com</description>
-              <itunes:subtitle>Для чего нужен и для чего не нужен Android NDK или что мы еще не знали про C++</itunes:subtitle>
-              <content:encoded>
-                  <![CDATA[На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.<br/><br/>
+            <itunes:subtitle>Для чего нужен и для чего не нужен Android NDK или что мы еще не знали про C++</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[На этот раз ведущим внезапно захотелось хардкора, поэтому гостем третьего выпуска второго сезона стал Александр Ефременков. Специалист по Client Security Components в Yandex Taxi, Google Developer Expert по Android и соведущий AndroidDevPodcast.<br/><br/>
 А, стоп, Александр, кроме всех перечисленных титулов, еще и член программного комитета DevFest SIberia, который, кстати, пройдет на днях в Новосибирске, поэтому не обходится без обсуждений нескольких прошедших и предстоящих конференций, но все быстро перемещается к техническим вопросам, которых, наверняка, так ждали все слушатели.<br/><br/>
 Некоторым из ведущих приходится признать, что они имеют достаточно смутное представление об Android NDK, и что же собственно с его помощью можно делать. Они начинают выяснять подробности, потихоньку погружаясь все глубже и глубже, в процессе выясняя много интересного: какие приложения невозможно написать без NDK, какие есть бенефиты, есть ли какие-то проблемы с Gradle. И, наконец, зачем вообще нужен C++, если есть Kotlin Native.<br/><br/>
 Еще диалог периодически скатывается то в кросс-платформу (как же не сравнить Qt c Flutter), то в сравнении “плюсов” со всеми современными языками, то еще в какие-то дебри. В результате всего этого, рождается главный вопрос выпуска: если С++ так хорош, то почему на нем не пишут все?<br/><br/>
@@ -523,9 +523,49 @@ Android NDK reference: https://developer.android.com/ndk/reference
 <a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
 <a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
 <a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
-              </content:encoded>
-              <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/719644228-mobilepeopletalks-android-ndk-i-c.mp3" length="70056001"/>
-              <itunes:image href="http://i1.sndcdn.com/artworks-000644177167-6bv1nh-original.png"/>
-         </item>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/719644228-mobilepeopletalks-android-ndk-i-c.mp3" length="70056001"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000644177167-6bv1nh-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/722989198</guid>
+            <title>Немного психотерапии для мобильных разработчиков или вечерние беседы с доктором Бреславом</title>
+            <pubDate>Thu, 05 Dec 2019 06:43:27 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/nemnogo-psikhoterapii-dlya-mobilnykh-razrabotchikov-ili-vechernie-besedy-s-doktorom-breslavom</link>
+            <itunes:duration>01:07:01</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>После экспериментов с C++ ведущие начали опасаться за свое психическое состояние, и, поняв, что нужно с этим что-то делать, они решают, что самое время звать Андрея Бреслава! Андрей, Kotlin Project Lead в JetBrains и CTO Alter, давно увлекается психологией и психотерапией (проект Alter как раз про это), и, очевидно, лучшая кандидатура для подобных бесед.
+                
+Ведущие начинают издалека и, для начала, чтобы не попасть в просак, аккуратно пытаются выяснить, чем все-таки отличается психолог от психотерапевта, и неожиданно узнают много новых слов, но, тем не менее, продолжают копать: насколько профессия программиста опасна для психического здоровья, что такое гештальт-терапия и еще несколько умных слов, какие ранние признаки выгорания и что, кроме выгорания, может представлять опасность, нужно ли тимлиду обязательно быть психологом и чем в этом может помочь Alter? Но неожиданно скатываются в глубокую рефлексию, попутно выяснив, что все без исключения самозванцы.
+                
+Смирившись с этой грустной новостью, все решают, что наилучший способ побороть синдром, это немедленно что-нибудь отметить и повод, конечно, находится (Данис недавно прошел ассессмент на Advanced Engineering).
+                
+ЗЫ: Выпуск действительно интересный, хоть и не совсем технический!
+                
+Андрей Бреслав: https://twitter.com/abreslav
+Alter: https://psyalter.ru/
+                
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>После экспериментов с C++ ведущие начали опасаться за свое психическое состояние, и решают позаботиться о нем заранее.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Андрей Бреслав, Kotlin Project Lead в JetBrains и CTO Alter, давно увлекается психологией и психотерапией (проект Alter как раз про это), и, очевидно, лучшая кандидатура для бесед о психическом здоровье.<br/><br/>
+Ведущие начинают издалека и, для начала, чтобы не попасть в просак, аккуратно пытаются выяснить, чем все-таки отличается психолог от психотерапевта, и неожиданно узнают много новых слов, но, тем не менее, продолжают копать: насколько профессия программиста опасна для психического здоровья, что такое гештальт-терапия и еще несколько умных слов, какие ранние признаки выгорания и что, кроме выгорания, может представлять опасность, нужно ли тимлиду обязательно быть психологом и чем в этом может помочь Alter? Но неожиданно скатываются в глубокую рефлексию, попутно выяснив, что все без исключения самозванцы.<br/><br/>
+Смирившись с этой грустной новостью, все решают, что наилучший способ побороть синдром, это немедленно что-нибудь отметить и повод, конечно, находится (Данис недавно прошел ассессмент на Advanced Engineering).<br/><br/>
+ЗЫ: Выпуск действительно интересный, хоть и не совсем технический!<br/><br/>
+Андрей Бреслав: <a href="https://twitter.com/abreslav">Twitter</a>, <a href="https://t.me/abreslav">Telegram</a><br/><br/>
+<a href="https://psyalter.ru/">Alter</a><br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/722989198-mobilepeopletalks-nemnogo-psikhoterapii-dlya-mobilnykh-razrabotchikov-ili-vechernie-besedy-s-doktorom-breslavom.mp3" length="96983580"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000647410675-m5fq52-original.png"/>
+        </item>
     </channel>
 </rss>
