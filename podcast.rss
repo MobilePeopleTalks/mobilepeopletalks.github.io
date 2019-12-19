@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 05 Dec 2019 06:43:27 +0000</pubDate>
-        <lastBuildDate>Thu, 05 Dec 2019 06:43:27 +0000</lastBuildDate>
+        <pubDate>Thu, 19 Dec 2019 09:48:05 +0000</pubDate>
+        <lastBuildDate>Thu, 19 Dec 2019 09:48:05 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -566,6 +566,64 @@ Alter: https://psyalter.ru/
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/722989198-mobilepeopletalks-nemnogo-psikhoterapii-dlya-mobilnykh-razrabotchikov-ili-vechernie-besedy-s-doktorom-breslavom.mp3" length="96983580"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000647410675-m5fq52-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/730471450</guid>
+            <title>Взгляд на iOS, Android и всякие кроссплатформы через призму безопасности</title>
+            <pubDate>Thu, 19 Dec 2019 09:48:05 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/ios-and-security</link>
+            <itunes:duration>01:05:04</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>У каждого (но это не точно) мобильного разработчика рано или поздно возникает вопрос, “а насколько безопасно приложение, которое я делаю?” У ведущих такой вопрос тоже иногда возникал, и, поэтому, чтобы помочь слушателям и самим себе разобраться в секьюрити, они приглашают в гости Анастасию Войтову, больше известную как Vixentael, head of customer solutions in Cossack Labs, эксперта по криптографии, безопасности и архитектурам.
+
+Сначала ведущие ведут себя осторожно и расспрашивают гостью, как она дошла до жизни такой, и променяла iOS разработку на security, как выглядит кампус Apple изнутри (да, Настя была у них в гостях), и прочие несерьезные вопросы. Но потихоньку вопросы становятся все более серьезными, и всем открывается много интересных нюансов: как писать безопасные приложения, как не допустить типовых ошибок, какая платформа безопаснее Android или iOS, и бывают ли безопасные кроссплатформы (нельзя же было не спросить про Flutter).
+
+Кроме того, в процессе разговора всплывает множество эпичных историй про компании, которые пренебрегали советами, про организаторов конференций, которые пренебрегали советами, ну и вообще, про то, что не следует пренебрегать советами Насти и других секьюрити экспертов.
+
+В завершение ведущие делают вывод: никогда, слышите, НИКОГДА не провоцируйте специалистов по безопасности фразами “У нас все секьюрно и полностью под контролем, не надо там ничего смотреть”.
+
+А еще Настя посоветовала почитать:
+ее твиттерок: https://twitter.com/vixentael
+
+ее медиум и пост о том, какие типичные баги в note taking apps: https://medium.com/@vixentael/popular-note-taking-apps-share-these-security-flaws-security-tips-for-developers-326180e41329
+
+owasp masvs – чеклист по безопасности мобильных аппок: https://github.com/OWASP/owasp-masvs
+
+организационное – когда внедрять секурити практики, если вы стартап: https://github.com/forter/security-101-for-saas-startups/blob/english/security.md
+
+iOS, android security books: https://nostarch.com/iossecurity https://nostarch.com/androidsecurity
+
+iOS security from Apple: https://www.apple.com/business/docs/site/iOS_Security_Guide.pdf
+
+Android security from Google: https://source.android.com/security
+                
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Вы просили, мы сделали. Выпуск про разработку, про код, про iOS и с реальными примерами.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[У каждого (но это не точно) мобильного разработчика рано или поздно возникает вопрос, “а насколько безопасно приложение, которое я делаю?” У ведущих такой вопрос тоже иногда возникал, и, поэтому, чтобы помочь слушателям и самим себе разобраться в секьюрити, они приглашают в гости Анастасию Войтову, больше известную как Vixentael, head of customer solutions in Cossack Labs, эксперта по криптографии, безопасности и архитектурам.<br/><br/>
+Сначала ведущие ведут себя осторожно и расспрашивают гостью, как она дошла до жизни такой, и променяла iOS разработку на security, как выглядит кампус Apple изнутри (да, Настя была у них в гостях), и прочие несерьезные вопросы. Но потихоньку вопросы становятся все более серьезными, и всем открывается много интересных нюансов: как писать безопасные приложения, как не допустить типовых ошибок, какая платформа безопаснее Android или iOS, и бывают ли безопасные кроссплатформы (нельзя же было не спросить про Flutter).<br/><br/>
+Кроме того, в процессе разговора всплывает множество эпичных историй про компании, которые пренебрегали советами, про организаторов конференций, которые пренебрегали советами, ну и вообще, про то, что не следует пренебрегать советами Насти и других секьюрити экспертов.<br/><br/>
+В завершение ведущие делают вывод: никогда, слышите, НИКОГДА не провоцируйте специалистов по безопасности фразами “У нас все секьюрно и полностью под контролем, не надо там ничего смотреть”.<br/><br/>
+А еще Настя посоветовала почитать:<br/><br/>
+<a href="https://twitter.com/vixentael">ее твиттерок</a><br/><br/>
+<a href="https://medium.com/@vixentael/popular-note-taking-apps-share-these-security-flaws-security-tips-for-developers-326180e41329">ее медиум пост</a> о том, какие типичные баги в note taking apps<br/><br/>
+<a href="https://github.com/OWASP/owasp-masvs">owasp masvs</a> – чеклист по безопасности мобильных аппок<br/><br/>
+организационное – <a href="https://github.com/forter/security-101-for-saas-startups/blob/english/security.md">когда внедрять секурити практики</a>, если вы стартап<br/><br/>
+Security books: <a href="https://nostarch.com/iossecurity">iOS</a> и <a href="https://nostarch.com/androidsecurity">Android</a><br/><br/>
+<a href="https://www.apple.com/business/docs/site/iOS_Security_Guide.pdf">iOS Security Guide</a> from Apple<br/><br/>
+<a href="https://source.android.com/security">Android security<a/> from Google<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/730471450-mobilepeopletalks-ios-and-security.mp3" length="94167371"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000654945502-l1s73r-original.png"/>
         </item>
     </channel>
 </rss>
