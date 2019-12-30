@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 19 Dec 2019 09:48:05 +0000</pubDate>
-        <lastBuildDate>Thu, 19 Dec 2019 09:48:05 +0000</lastBuildDate>
+        <pubDate>Mon, 30 Dec 2019 08:48:02 +0000</pubDate>
+        <lastBuildDate>Mon, 30 Dec 2019 08:48:02 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -624,6 +624,44 @@ Security books: <a href="https://nostarch.com/iossecurity">iOS</a> и <a href="h
             </content:encoded>
             <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/730471450-mobilepeopletalks-ios-and-security.mp3" length="94167371"/>
             <itunes:image href="http://i1.sndcdn.com/artworks-000654945502-l1s73r-original.png"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/734240683</guid>
+            <title>Мобильная разработка в 2019 - итоги, скандалы, расследования</title>
+            <pubDate>Mon, 30 Dec 2019 08:48:02 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/review-of-2019</link>
+            <itunes:duration>01:02:53</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <description>2019 год уверенно подобрался к своему завершению, и, осознав этот неоспоримый факт, ведущие решили собраться по старинке, вчетвером, без гостей, и подвести итоги. Какие именно итоги они хотят подвести, они конечно же не определились. Но раз год кончается, итоги должны быть подведены и точка, поэтому решено было разобраться с ними в процессе записи.
+
+Начинается все как обычно хорошо, Данису с Александром даже удается анонсировать розыгрыш подарков. Новый год же, всем хочется хоть немного побыть Дедом Морозом. Затем, Данис делает попытку начать обсуждение событий года более менее по порядку, но Володя задает вопрос про Swift, Кирилл делает ехидное замечание ... и все идет наперекосяк, а выпуск начинает жить своей жизнью, вопреки планам. Тем не менее, несмотря на взаимный троллинг, переходы на личности, каверзные вопросы, плохую связь и перебивания друг друга, ведущим удается все-таки обсудить много разных тем и новостей из мира Flutter, React Native, Android и iOS.
+
+Что круче - WWDC или Google IO, AirPods или Google Buds, есть ли будущее у раскладных телефонов, что же такое Hooks в ReactNative и AndroidX в Android, чего еще не хватает Dart для того чтоб догнать Kotlin или Swift (Extensions и Null Safety завезли же), насколько перспективен Kotlin Multiplatform для мобильной разработки и многое-многое другое.
+
+В итого выпуск получается очень необычным и разноплановым, хоть местами и агрессивным :)
+
+P.S. Спасибо всем, кто нас слушает. С Новым Годом. Участвуйте в розыгрыше и забирайте заслуженные подарки!
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>2019 год уверенно подобрался к своему завершению, и, осознав этот неоспоримый факт, ведущие решили собраться по старинке, вчетвером, без гостей, и подвести итоги.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Какие именно итоги они хотят подвести, они конечно же не определились. Но раз год кончается, итоги должны быть подведены и точка, поэтому решено было разобраться с ними в процессе записи.<br/><br/>
+Начинается все как обычно хорошо, Данису с Александром даже удается анонсировать розыгрыш подарков. Новый год же, всем хочется хоть немного побыть Дедом Морозом. Затем, Данис делает попытку начать обсуждение событий года более менее по порядку, но Володя задает вопрос про Swift, Кирилл делает ехидное замечание ... и все идет наперекосяк, а выпуск начинает жить своей жизнью, вопреки планам. Тем не менее, несмотря на взаимный троллинг, переходы на личности, каверзные вопросы, плохую связь и перебивания друг друга, ведущим удается все-таки обсудить много разных тем и новостей из мира Flutter, React Native, Android и iOS.<br/><br/>
+Что круче - WWDC или Google IO, AirPods или Google Buds, есть ли будущее у раскладных телефонов, что же такое Hooks в ReactNative и AndroidX в Android, чего еще не хватает Dart для того чтоб догнать Kotlin или Swift (Extensions и Null Safety завезли же), насколько перспективен Kotlin Multiplatform для мобильной разработки и многое-многое другое.<br/><br/>
+В итого выпуск получается очень необычным и разноплановым, хоть местами и агрессивным :)<br/><br/>
+P.S. Спасибо всем, кто нас слушает. С Новым Годом. Участвуйте в розыгрыше и забирайте заслуженные подарки!<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор <a href="https://t.me/gdgnn">GDG Nizhny Novgorod</a>, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/734240683-mobilepeopletalks-review-of-2019.mp3" length="91027035"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000658650904-5iqivm-original.png"/>
         </item>
     </channel>
 </rss>
