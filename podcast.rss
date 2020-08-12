@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Thu, 23 Jul 2020 14:45:18 +0000</pubDate>
-        <lastBuildDate>Thu, 23 Jul 2020 14:45:18 +0000</lastBuildDate>
+        <pubDate>Wed, 12 Aug 2020 19:54:25 +0000</pubDate>
+        <lastBuildDate>Wed, 12 Aug 2020 19:54:25 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1040,5 +1040,62 @@ Android Dev Challenge: https://developer.android.com/helpful-innovation
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/862096885-mobilepeopletalks-android-dev-challenge.mp3" length="62528074"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-KgXVpCjzyJSgUwyG-NGvSbA-t3000x3000.jpg"/>
         </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/874423654</guid>
+            <title>Kotlin. Можно ли измерить счастье разработчика?</title>
+            <pubDate>Wed, 12 Aug 2020 19:54:25 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/kotlin-product-manager</link>
+            <itunes:duration>01:06:58</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>15</itunes:episode>
+            <description>В Mobile People Talks еще не было практически ни одного эпизода, где бы ни всплывал Kotlin. Кроме того, в гостях у подкаста уже несколько раз были люди, работающие в JetBrains в команде разработки этого языка, но почему-то ведущие ни с кем из них не говорили про Kotlin подробно (даже с Бреславом говорили больше про выгорание). А еще в гостях у подкаста уже была одна из ведущих Подлодки, Катя Петрова (Можно сказать начали дружить подкастами).
+
+В прошлом году, на Android Dev Summit, Google запустили челлендж, в котором нужно было придумать и реализовать приложение, которое будет помогать людям, и при этом соответствовать неким критериям, по использованию технологий. Отсюда и название - Android Dev Challenge. И вот совсем недавно были подведены его итоги, где отобрали ровно 10 победителей.
+
+К чему это все? Да к тому, что в этот раз все вышеперечисленное сошлось в одном человеке - к нам в гости заглянул продакт-менеджер проекта Kotlin из JetBrains, ведущий Подлодки, автор роад-мэпа тимлида, и тд и тп (практически «королева драконов и мать первых людей», или наоборот, не помню). Короче, в гостях сегодня Егор Толстой. Тадам!
+
+Эпизод вообще выдается очень бодрым и оригинальным. Сначала ведущие пытаются выяснить у Егора, как он дошел до жизни такой, и из iOS разработчика переквалифицировался в менеджера Kotlin, попутно пытаясь выяснить, для чего вообще языку программирования продакт менеджеры.. И узнают очень много интересного, например: какие метрики есть у языка программирования, что такое developer experience, как измерить счастье разработчика и, конечно, пишет ли Егор код в продакшен. 
+
+Не обошли вниманием и Kotlin Multiplatform, как же без этого, а так как в составе ведущих были и Данис, и Александр, то не обошлось без параллелей и сравнений с Dart и Swift. Кроме того обсудили саму компанию JetBrains, ее ценности и процессы внутри. 
+
+А в самом конце, всплывает главный вопрос вечера: Когда же уже Kotlin захватит мир? И захватит ли...
+
+Гость:
+Егор Толстой, Kotlin product manager, https://twitter.com/igrekde
+
+Полезные ссылки:
+Доклад Константина Цховребова: https://youtu.be/bw19UvvE2x8 и https://youtu.be/Bn0bgfYE0UM
+
+Наши конкуренты:
+Подкаст Подлодка: https://twitter.com/PodlodkaPodcast
+Подкаст с длинным и непонятным названием: https://newpodcast2.live
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>В Mobile People Talks еще не было практически ни одного эпизода, где бы ни всплывал Kotlin. Кроме того, в гостях у подкаста уже несколько раз были люди, работающие в JetBrains в команде разработки этого языка, но почему-то ведущие ни с кем из них не говорили про Kotlin подробно (даже с Бреславом говорили больше про выгорание). А еще в гостях у подкаста уже была одна из ведущих Подлодки, Катя Петрова (Можно сказать начали дружить подкастами).</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[К чему это все? Да к тому, что в этот раз все вышеперечисленное сошлось в одном человеке - к нам в гости заглянул продакт-менеджер проекта Kotlin из JetBrains, ведущий Подлодки, автор роад-мэпа тимлида, и тд и тп (практически «королева драконов и мать первых людей», или наоборот, не помню). Короче, в гостях сегодня Егор Толстой. Тадам!<br/><br/>
+Эпизод вообще выдается очень бодрым и оригинальным. Сначала ведущие пытаются выяснить у Егора, как он дошел до жизни такой, и из iOS разработчика переквалифицировался в менеджера Kotlin, попутно пытаясь выяснить, для чего вообще языку программирования продакт менеджеры.. И узнают очень много интересного, например: какие метрики есть у языка программирования, что такое developer experience, как измерить счастье разработчика и, конечно, пишет ли Егор код в продакшен.<br/><br/>
+Не обошли вниманием и Kotlin Multiplatform, как же без этого, а так как в составе ведущих были и Данис, и Александр, то не обошлось без параллелей и сравнений с Dart и Swift. Кроме того обсудили саму компанию JetBrains, ее ценности и процессы внутри.<br/><br/>
+А в самом конце, всплывает главный вопрос вечера: Когда же уже Kotlin захватит мир? И захватит ли...<br/><br/>
+Гость:<br/>
+Егор Толстой, Kotlin product manager, <a href="https://twitter.com/igrekde">@igrekde</a><br/><br/>
+
+Полезные ссылки:<br/>
+Доклад Константина Цховребова: <a href="https://youtu.be/bw19UvvE2x8">основная часть</a> и <a href="https://youtu.be/Bn0bgfYE0UM">продолжение</a><br/><br/>
+
+Наши конкуренты:<br/>
+<a href="https://twitter.com/PodlodkaPodcast">Подкаст Подлодка</a><br/><br/>
+<a href="https://newpodcast2.live">Подкаст с длинным и непонятным названием</a><br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.<br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/874423654-mobilepeopletalks-kotlin-product-manager.mp3" length="96446089"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-KgXVpCjzyJSgUwyG-NGvSbA-t3000x3000.jpg"/>
+        </item>        
     </channel>
 </rss>
