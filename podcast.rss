@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Wed, 16 Sep 2020 06:56:32 +0000</pubDate>
-        <lastBuildDate>Wed, 16 Sep 2020 06:56:32 +0000</lastBuildDate>
+        <pubDate>Thu, 01 Oct 2020 07:02:47 +0000</pubDate>
+        <lastBuildDate>Thu, 01 Oct 2020 07:02:47 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1140,6 +1140,45 @@ Android Dev Challenge: https://developer.android.com/helpful-innovation
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/892927258-mobilepeopletalks-product-company.mp3" length="93735206"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-KgXVpCjzyJSgUwyG-NGvSbA-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/902636146</guid>
+            <title>First ever Mobile People Talks LIVE show!</title>
+            <pubDate>Thu, 01 Oct 2020 07:02:47 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/first-ever-mobile-people-talks-live-show</link>
+            <itunes:duration>00:54:54</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>2</itunes:season>
+            <itunes:episodeType>Bonus</itunes:episodeType>
+            <description>Mobile People Talks podcast hosts finally decided to try something new. New episode format. Or rather two new formats at once! Firstly, this is our first episode recorded in English, and secondly, it is recorded live at the Mobile Z-Days conference. Well, at the moment, «live» means online, but still… So this time listeners were able to not only listen to our show, but also ask questions. And, moreover, there is also a video version. So now you can both listen and watch us doing this particular show.
+
+It happened that Danis and Aleksandr helped organizing the Mobile Z-Days conference, dedicated to both native and cross-platform mobile development, so it didn't take long to choose the topic: The Ultimate Question of Life, The Universe, and Everything (and the answer is not 42). What is better development, native or cross-platform?
+
+The guests of the episode are conference speakers from different tracks: Android - Michal Szczepanik, iOS - Vladimir Burdukov and Flutter - Eugene Saturov
+
+So… welcome to the first ever LIVE episode of Mobile People Talks!
+
+Conference page: https://community-z.com/events/mobile-zdays
+Episode video version: https://www.youtube.com/watch?v=yfUdleCvjsU
+
+Contact us: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Mobile People Talks podcast hosts finally decided to try something new. New episode format. Or rather two new formats at once! Firstly, this is our first episode recorded in English, and secondly, it is recorded live at the Mobile Z-Days conference. Well, at the moment, «live» means online, but still… So this time listeners were able to not only listen to our show, but also ask questions. And, moreover, there is also a video version. So now you can both listen and watch us doing this particular show.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[It happened that Danis and Aleksandr helped organizing the Mobile Z-Days conference, dedicated to both native and cross-platform mobile development, so it didn't take long to choose the topic: The Ultimate Question of Life, The Universe, and Everything (and the answer is not 42). What is better development, native or cross-platform?<br/><br/>
+The guests of the episode are conference speakers from different tracks: Android - <b>Michal Szczepanik</b>, iOS - <b>Vladimir Burdukov</b> and Flutter - <b>Eugene Saturov</b>.<br/><br/>
+So… welcome to the first ever LIVE episode of Mobile People Talks!<br/><br/>
+Useful links:<br/>
+<a href="https://community-z.com/events/mobile-zdays">Mobile Z-Days Conference page</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=yfUdleCvjsU">Video version of this episode</a><br/><br/>
+
+Contact us: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/><br/>
+Hosts:<br/>
+<a href="https://twitter.com/edeniska">Danis Tazetdinov</a>, Apple Competency head at EAPM, Apple platforms evangelist, <a href="https://t.me/AppleDevNews">Apple Developer News</a> channel author.<br/><br/>
+<a href="https://twitter.com/ShuregDenisov">Aleksandr Denisov</a>, GDG Moscow organizer, Co-Head of Flutter Competency at EPAM, FlutterRussia channel author.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/902636146-mobilepeopletalks-first-ever-mobile-people-talks-live-show.mp3" length="79076750"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-HQ8E0uQp0XtpaRY4-1MagOw-t3000x3000.jpg"/>
         </item>        
     </channel>
 </rss>
