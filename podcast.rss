@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Mon, 12 Oct 2020 07:28:38 +0000</pubDate>
-        <lastBuildDate>Mon, 12 Oct 2020 07:28:38 +0000</lastBuildDate>
+        <pubDate>Tue, 29 Dec 2020 13:10:43 +0000</pubDate>
+        <lastBuildDate>Tue, 29 Dec 2020 13:10:43 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1180,7 +1180,6 @@ Hosts:<br/>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/902636146-mobilepeopletalks-first-ever-mobile-people-talks-live-show.mp3" length="79076750"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-HQ8E0uQp0XtpaRY4-1MagOw-t3000x3000.jpg"/>
         </item>
-        
         <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/908415352</guid>
             <title>Server Driven UI</title>
@@ -1219,5 +1218,45 @@ Hosts:<br/>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/908415352-mobilepeopletalks-server-driven-ui.mp3" length="72122118"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-KgXVpCjzyJSgUwyG-NGvSbA-t3000x3000.jpg"/>
         </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/955899997</guid>
+            <title>Итоги своеобразного года</title>
+            <pubDate>Wed, 30 Dec 2020 07:11:52 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/2020-in-nutshell</link>
+            <itunes:duration>01:28:20</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>2020 год был весьма своеобразным, мягко говоря, но и все своеобразное тоже когда-то заканчивается. Вот и 2020, наконец-то, подобрался к своему завершению. По этому поводу мы решили стартануть 3 сезон подкаста, тем более, что тему выбирать долго не нужно, а достаточно просто подвести итоги всего хорошего, всего плохого, ну и всего “своеобразного”, что случилось в мире мобильной разработки в злополучном 2020. А в качестве гостя пригласить никого иного, как Кирилла Розова, ведущего канала Android Broadcast и экс-ведущего Mobile People Talks. Раз уж он начинал этот год как один из ведущих MPT, то идеально подходит для того, чтобы помочь с подведением итогов в качестве гостя!
+
+Поэтому встречайте обсуждение всех значимых новостей, апдейтов и прочих слухов в экосистемах iOS, Android, ReactNative и Flutter. 
+
+Можно ли запустить Android эмулятор на новом процессоре от Apple? Что круче – Compose for Desktop или Flutter for Desktop? Что вы знаете о противостояниях Apple vs Epic или Google vs Huawei? Все это и многое другое – в подведении итогов года от Mobile People Talks.
+
+А еще мы невзначай обсуждаем новое приложение, к которому приложил руку один из ведущих (угадайте, кто) – LifeLog. Установить его можно отсюда: https://apps.apple.com/ru/app/lifelog/id1524950438
+
+Ну и самое главное – у нас новый конкурс! Создавайте мемы про ведущих подкаста, выкладывайте в соцсети, присылайте нам, а мы подарим какой-нибудь интересный приз авторам самых лучших мемов.
+
+С наступающим!
+  
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>2020 год был весьма своеобразным, мягко говоря, но и все своеобразное тоже когда-то заканчивается. Вот и 2020, наконец-то, подобрался к своему завершению. По этому поводу мы решили стартануть 3 сезон подкаста, тем более, что тему выбирать долго не нужно, а достаточно просто подвести итоги всего хорошего, всего плохого, ну и всего “своеобразного”, что случилось в мире мобильной разработки в злополучном 2020. А в качестве гостя пригласить никого иного, как Кирилла Розова, ведущего канала Android Broadcast и экс-ведущего Mobile People Talks. Раз уж он начинал этот год как один из ведущих MPT, то идеально подходит для того, чтобы помочь с подведением итогов в качестве гостя!</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Поэтому встречайте обсуждение всех значимых новостей, апдейтов и прочих слухов в экосистемах iOS, Android, ReactNative и Flutter.<br/><br/>
+Можно ли запустить Android эмулятор на новом процессоре от Apple? Что круче – Compose for Desktop или Flutter for Desktop? Что вы знаете о противостояниях Apple vs Epic или Google vs Huawei? Все это и многое другое – в подведении итогов года от Mobile People Talks.<br/><br/>
+А еще мы невзначай обсуждаем новое приложение, к которому приложил руку один из ведущих (угадайте, кто) – <b>LifeLog</b>. Установить его можно из <a href="https://apps.apple.com/ru/app/lifelog/id1524950438">App Store</a>.<br/><br/>
+Ну и самое главное – у нас новый конкурс! Создавайте мемы про ведущих подкаста, выкладывайте в соцсети, присылайте нам, а мы подарим какой-нибудь интересный приз авторам самых лучших мемов.<br/><br/>
+Гость подкаста:<br/>
+<a href="https://twitter.com/kirill_rozov">Кирилл Розов</a>, организатор School.kt, автор канала об Android разработке <a href="https://t.me/android_broadcast">Android Broadcast</a>.<br/><br/>
+Пишите нам: <a href="mailto:mobilepeopletalks@gmail.com">mobilepeopletalks@gmail.com</a>.<br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/955899997-mobilepeopletalks-2020-in-nutshell.mp3" length="127691820"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-sPzEH8n11NVyLR2W-v8EjPw-t3000x3000.png"/>
+        </item>        
     </channel>
 </rss>
