@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Tue, 29 Dec 2020 13:10:43 +0000</pubDate>
-        <lastBuildDate>Tue, 29 Dec 2020 13:10:43 +0000</lastBuildDate>
+        <pubDate>Sun, 07 Feb 2021 07:39:18 +0000</pubDate>
+        <lastBuildDate>Sun, 07 Feb 2021 07:39:18 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1257,6 +1257,40 @@ Hosts:<br/>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/955899997-mobilepeopletalks-2020-in-nutshell.mp3" length="127691820"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-sPzEH8n11NVyLR2W-v8EjPw-t3000x3000.png"/>
-        </item>        
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/979598320</guid>
+            <title>Примеряем роль Ванги или как узнать будущее … мобильного приложения при помощи Deep Learning?</title>
+            <pubDate>Sun, 07 Feb 2021 07:39:18 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/s03e02-predictions</link>
+            <itunes:duration>00:53:55</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <description>Опубликовав приложение в стор, всегда хочется знать, как поведет себя пользователь в той или иной ситуации: будет ли он пользоваться им постоянно, может даже купит что-нибудь за деньги (если есть платные фичи, конечно), или может вообще удалит приложение ко всем чертям?
+                
+Чтобы это узнать, совершенно необязательно быть Вангой или Нострадамусом, а достаточно просто обучить нейросеть (звучит очень просто) и позволить ей исполнять роль Ванги за вас. Как раз об этом ведущие и поговорили с Олей Шкрябой, разработчицей мобильных решений в сфере информационной безопасности из Kaspersky.
+
+Зачем вообще нужно предсказывать действия пользователей? Какие нейросети для этого используются? Нужно ли вспоминать для этого высшую математику, теорию вероятностей, мат. статистику и прочий матанализ? Ответы на эти и на многие другие вопросы вы получите в новом выпуске Mobile People Talks.
+
+Гость подкаста:
+Ольга Шкряба, ведущая канала https://t.me/paradisecurity
+  
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Опубликовав приложение в стор, всегда хочется знать, как поведет себя пользователь в той или иной ситуации: будет ли он пользоваться им постоянно, может даже купит что-нибудь за деньги (если есть платные фичи, конечно), или может вообще удалит приложение ко всем чертям?</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Чтобы это узнать, совершенно необязательно быть Вангой или Нострадамусом, а достаточно просто обучить нейросеть (звучит очень просто) и позволить ей исполнять роль Ванги за вас. Как раз об этом ведущие и поговорили с Олей Шкрябой, разработчицей мобильных решений в сфере информационной безопасности из Kaspersky.<br/><br/>
+Зачем вообще нужно предсказывать действия пользователей? Какие нейросети для этого используются? Нужно ли вспоминать для этого высшую математику, теорию вероятностей, мат. статистику и прочий матанализ? Ответы на эти и на многие другие вопросы вы получите в новом выпуске Mobile People Talks.<br/><br/>
+Гость подкаста:<br/>
+Ольга Шкряба, ведущая канала <a href="https://t.me/paradisecurity">@paradiSEcurity</a>.<br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/979598320-mobilepeopletalks-s03e02-predictions.mp3" length="77649838"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>
     </channel>
 </rss>
