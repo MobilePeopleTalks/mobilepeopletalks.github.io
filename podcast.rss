@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Sun, 07 Feb 2021 07:39:18 +0000</pubDate>
-        <lastBuildDate>Sun, 07 Feb 2021 07:39:18 +0000</lastBuildDate>
+        <pubDate>Fri, 19 Feb 2021 06:32:13 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Feb 2021 06:32:13 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1292,5 +1292,46 @@ Hosts:<br/>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/979598320-mobilepeopletalks-s03e02-predictions.mp3" length="77649838"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
         </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/987934222</guid>
+            <title>Kotlin Multiplatform Mobile</title>
+            <pubDate>Fri, 19 Feb 2021 06:32:13 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/s03e03-kmm</link>
+            <itunes:duration>01:12:14</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>На протяжении веков (ну может чуть меньше) разработчики пытались найти способы не писать каждый раз новый код под каждую платформу, а как-то немного сэкономить, и какую-то часть писать только один раз, но чтоб приложение в результате было такое же классное, как нативное. Много попыток уже было сделано, Apache Cordova от Adobe, Xamarin от Microsoft, ReactNative от Facebook, Flutter от Google, и каждая из этих попыток была все ближе к идеалу (а для некоторых типов задач так вообще идеал), но все равно, нативная разработка крепко удерживает свои позиции. И не так давно появился еще один претендент на то, чтоб стать мейнстримом в кросс-платформенной разработке, а именно, Kotlin Multiplatform Mobile от JetBrains.
+
+Про ReactNative и Flutter ведущие уже много говорили (и обязательно еще поговорят) и даже про Xamarin говорили, а вот подробного выпуска посвященного KMM еще не было. Так-что в этот раз, ведущие решили что время пришло, и пригласили в гости Аню Жаркову, мобильную разработчицу в Usetech, преподавателя в Otus, а еще автора статей и активного спикера.
+
+Насколько KMM стабилен? Что там с performance? А с управлением памятью? А с многопоточностью? Можно ли делать с его помощью UI?  И конечно чем KMM отличается от других кроссплатформенных решений, таких как Xamarin, React Native и, конечно, Flutter. 
+
+У Александра случились неполадки с соединением, и, поскольку выпуск записывался в прямом эфире, начали без него, но он все-таки смог подключится чтоб обсудить эту животрепещущую тему и посравнивать KMM c Flutter.
+
+Поэтому если вы еще сомневаетесь, какую кроссплатформу использовать в своем проекте, вам обязательно нужно прослушать этот выпуск, возможно ваши сомнения рассеятся!
+
+Гость подкаста:
+Анна Жаркова, Twitter: https://twitter.com/anioutkajarkova, Telegram: https://t.me/azharkova, https://t.me/prettygeeknotes
+  
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>На протяжении веков (ну может чуть меньше) разработчики пытались найти способы не писать каждый раз новый код под каждую платформу, а как-то немного сэкономить, и какую-то часть писать только один раз, но чтоб приложение в результате было такое же классное, как нативное.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Много попыток уже было сделано, Apache Cordova от Adobe, Xamarin от Microsoft, ReactNative от Facebook, Flutter от Google, и каждая из этих попыток была все ближе к идеалу (а для некоторых типов задач так вообще идеал), но все равно, нативная разработка крепко удерживает свои позиции. И не так давно появился еще один претендент на то, чтоб стать мейнстримом в кросс-платформенной разработке, а именно, Kotlin Multiplatform Mobile от JetBrains.<br/><br/>
+Про ReactNative и Flutter ведущие уже много говорили (и обязательно еще поговорят) и даже про Xamarin говорили, а вот подробного выпуска посвященного KMM еще не было. Так-что в этот раз, ведущие решили что время пришло, и пригласили в гости Аню Жаркову, мобильную разработчицу в Usetech, преподавателя в Otus, а еще автора статей и активного спикера.<br/><br/>
+Насколько KMM стабилен? Что там с performance? А с управлением памятью? А с многопоточностью? Можно ли делать с его помощью UI?  И конечно чем KMM отличается от других кроссплатформенных решений, таких как Xamarin, React Native и, конечно, Flutter. <br/><br/>
+У Александра случились неполадки с соединением, и, поскольку выпуск записывался в прямом эфире, начали без него, но он все-таки смог подключится чтоб обсудить эту животрепещущую тему и посравнивать KMM c Flutter.<br/><br/>
+Поэтому если вы еще сомневаетесь, какую кроссплатформу использовать в своем проекте, вам обязательно нужно прослушать этот выпуск, возможно ваши сомнения рассеятся!<br/><br/>
+Гость подкаста:<br/>
+Анна Жаркова, Twitter: <a href="https://twitter.com/anioutkajarkova">@anioutkajarkova</a>, Telegram: <a href="https://t.me/azharkova">@azharkova</a>, <a href="https://t.me/prettygeeknotes">@prettygeeknotes</a>.<br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/987934222-mobilepeopletalks-s03e03-kmm.mp3" length="104156411"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>        
     </channel>
 </rss>
