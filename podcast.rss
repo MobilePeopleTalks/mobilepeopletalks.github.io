@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 19 Feb 2021 06:32:13 +0000</pubDate>
-        <lastBuildDate>Fri, 19 Feb 2021 06:32:13 +0000</lastBuildDate>
+        <pubDate>Mon, 15 Mar 2021 11:24:50 +0000</pubDate>
+        <lastBuildDate>Mon, 15 Mar 2021 11:24:50 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1335,6 +1335,44 @@ Hosts:<br/>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/987934222-mobilepeopletalks-s03e03-kmm.mp3" length="104156411"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
-        </item>        
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1005316927</guid>
+            <title>Анализируй это – аналитика мобильных приложений</title>
+            <pubDate>Mon, 15 Mar 2021 11:24:50 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/mpt-s03e04-mobile-analytics</link>
+            <itunes:duration>00:54:10</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <description>Разработчикам мобильных приложений очень важно понимать, какие фичи больше нравятся пользователям и как именно ими используются, кроме того, очень важно понимать, что это за пользователи, какой у них пол и возраст, откуда они, чем занимаются.  Может же так получится что приложение создавалось для чего-то определенного, а пользователями используется только одна маленькая, совсем не основная фича, и развивать надо именно ее. Для получения всех этих данных и существует мобильная аналитика и именно про нее этот выпуск.
+
+На этот раз гостем нашего шоу согласился стать Дмитрий Грицан, менеджер проектов App Metrica, и ведущие подготовили для него много злободневных вопросов. Какие данные умеет собирать мобильная аналитика? Какие решения для их сбора сейчас существуют, и какие плюсы и минусы у них есть? Что такое IDFA и AAID, можно ли без них обойтись?
+
+Как все, наверное, догадались, ведущих особенно интересовала тема работы без IDFA в свете того, что в iOS 14.5 разработчиков и пользователей ждут большие изменения в этой области.
+
+Итак, если вы еще не прикрутили мобильную аналитику, и раздумываете, что же вам это может дать, или давно уже используете, но не знаете какие еще возможности и инструменты есть в этой области, ну и, наконец, если вы не знаете, чего ждать от iOS 14.5, то этот выпуск для вас!
+
+Гость подкаста:
+Дмитрий Грицан, менеджер проектов App Metrica, Facebook: https://fb.me/dmgritsan
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Разработчикам мобильных приложений очень важно понимать, какие фичи больше нравятся пользователям и как именно ими используются, кроме того, очень важно понимать, что это за пользователи, какой у них пол и возраст, откуда они, чем занимаются.  Может же так получится что приложение создавалось для чего-то определенного, а пользователями используется только одна маленькая, совсем не основная фича, и развивать надо именно ее. Для получения всех этих данных и существует мобильная аналитика и именно про нее этот выпуск.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[На этот раз гостем нашего шоу согласился стать Дмитрий Грицан, менеджер проектов App Metrica, и ведущие подготовили для него много злободневных вопросов. Какие данные умеет собирать мобильная аналитика? Какие решения для их сбора сейчас существуют, и какие плюсы и минусы у них есть? Что такое IDFA и AAID, можно ли без них обойтись?<br/><br/>
+Как все, наверное, догадались, ведущих особенно интересовала тема работы без IDFA в свете того, что в iOS 14.5 разработчиков и пользователей ждут большие изменения в этой области.<br/><br/>
+Итак, если вы еще не прикрутили мобильную аналитику, и раздумываете, что же вам это может дать, или давно уже используете, но не знаете какие еще возможности и инструменты есть в этой области, ну и, наконец, если вы не знаете, чего ждать от iOS 14.5, то этот выпуск для вас!<br/><br/>
+Гость подкаста:<br/>
+Дмитрий Грицан, менеджер проектов App Metrica, <a href="https://fb.me/dmgritsan">Facebook</a>.<br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>, Apple Competency Head в EPAM.<br/><br/>
+<a href="https://www.youtube.com/watch?v=PPJjoW_l1BM">Посмотреть выпуск на YouTube<a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1005316927-mobilepeopletalks-mpt-s03e04-mobile-analytics.mp3" length="78120271"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>
     </channel>
 </rss>
