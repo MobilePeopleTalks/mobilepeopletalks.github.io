@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Mon, 15 Mar 2021 11:24:50 +0000</pubDate>
-        <lastBuildDate>Mon, 15 Mar 2021 11:24:50 +0000</lastBuildDate>
+        <pubDate>Sat, 10 Apr 2021 07:59:37 +0000</pubDate>
+        <lastBuildDate>Sat, 10 Apr 2021 07:59:37 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1373,6 +1373,44 @@ Hosts:<br/>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1005316927-mobilepeopletalks-mpt-s03e04-mobile-analytics.mp3" length="78120271"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1024960222</guid>
+            <title>Legacy</title>
+            <pubDate>Sat, 10 Apr 2021 07:59:37 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/s03e05-legacy</link>
+            <itunes:duration>01:01:06</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <description>Какие эмоции у вас вызывает слово “легаси”? Вряд ли они добрые и светлые (мало ли, конечно, всякое бывает, но мы все-таки про общий случай говорим). Причем если проект с легаси достался вам в наследство, это одно дело, а ведь бывает и так, что вроде бы совсем недавно писали чистый код, все было хорошо, но не успели оглянуться, и как-то неожиданно он взял и превратился в легаси, как же так вышло, и можно ли было этого избежать?
+
+И вообще, вы, задавались вопросом, чем отличается  легаси от технического долга, и что из этого хуже для проекта? А iOS приложения на Objective-C это уже легаси? Или еще нет? А Android приложения на Java? А Flutter c использованием Dart без null safety?
+
+Именно о легаси наш эпизод, по этому поводу в гости к подкасту заглядывает Principal Developer из Atlassian (да-да, тот самый Atlassian - Confluence, Jira, Trello и много чего еще) Никита Леонов. С ним ведущие и обсуждают это самое никем не любимое легаси, и то, как с ним бороться (и надо ли), может в каких-то ситуациях легаси не только вредно, но и полезно? Заодно ведущие затрагивают вопросы того, как развиваются большие, долгоживущие проекты и насколько остро ощущается эта проблема там. Ну и, конечно, не остаются без внимания и платформы, как их создавать, как они могут помочь в разработке приложений, и как ими пользоваться, особенно если ты не владеешь всей архитектурой продукта целиком.
+
+Итак, если у вас на проекте есть проблемы с легаси, и вы не знаете что с этим делать, ну или на проекте все хорошо, но эти вопросы вам близки, и вы хотели бы в них разобраться, то этот выпуск для вас!
+
+Гость подкаста:
+Никита Леонов, Principal Developer в Atlassian, Twitter: https://twitter.com/leonovco
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Какие эмоции у вас вызывает слово “легаси”? Вряд ли они добрые и светлые (мало ли, конечно, всякое бывает, но мы все-таки про общий случай говорим). Причем если проект с легаси достался вам в наследство, это одно дело, а ведь бывает и так, что вроде бы совсем недавно писали чистый код, все было хорошо, но не успели оглянуться, и как-то неожиданно он взял и превратился в легаси, как же так вышло, и можно ли было этого избежать?
+
+И вообще, вы, задавались вопросом, чем отличается  легаси от технического долга, и что из этого хуже для проекта? А iOS приложения на Objective-C это уже легаси? Или еще нет? А Android приложения на Java? А Flutter c использованием Dart без null safety?</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Именно о легаси наш эпизод, по этому поводу в гости к подкасту заглядывает Principal Developer из Atlassian (да-да, тот самый Atlassian - Confluence, Jira, Trello и много чего еще) Никита Леонов. С ним ведущие и обсуждают это самое никем не любимое легаси, и то, как с ним бороться (и надо ли), может в каких-то ситуациях легаси не только вредно, но и полезно? Заодно ведущие затрагивают вопросы того, как развиваются большие, долгоживущие проекты и насколько остро ощущается эта проблема там. Ну и, конечно, не остаются без внимания и платформы, как их создавать, как они могут помочь в разработке приложений, и как ими пользоваться, особенно если ты не владеешь всей архитектурой продукта целиком.<br/><br/>
+Итак, если у вас на проекте есть проблемы с легаси, и вы не знаете что с этим делать, ну или на проекте все хорошо, но эти вопросы вам близки, и вы хотели бы в них разобраться, то этот выпуск для вас!<br/><br/>
+Гость подкаста:<br/>
+Никита Леонов, Principal Developer в Atlassian, <a href="https://twitter.com/leonovco">@leonovco</a>.<br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>, Apple Competency Head в EPAM.<br/><br/>
+<a href="https://www.youtube.com/watch?v=PPJjoW_l1BM">Посмотреть выпуск на YouTube<a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1024960222-mobilepeopletalks-s03e05-legacy.mp3" length="88106779"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-YgK93Rd2EbHzS1zX-BUShpA-t3000x3000.jpg"/>
         </item>
     </channel>
 </rss>
