@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 04 Jun 2021 06:32:57 +0000</pubDate>
-        <lastBuildDate>Fri, 04 Jun 2021 06:32:57 +0000</lastBuildDate>
+        <pubDate>Fri, 11 Jun 2021 05:40:48 +0000</pubDate>
+        <lastBuildDate>Fri, 11 Jun 2021 05:40:48 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1461,6 +1461,51 @@ Hosts:<br/>
 <a href="https://www.youtube.com/watch?v=rGCuTAbh0lU">Посмотреть выпуск на YouTube<a>.]]>
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1061729497-mobilepeopletalks-mpt-s03e06-fuchsia.mp3" length="110028341"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1066286284</guid>
+            <title>WWDC21!</title>
+            <pubDate>Fri, 11 Jun 2021 05:40:48 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/mpt-s03e07-wwdc21</link>
+            <itunes:duration>01:10:59</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <description>WWDC в этом году снова проходит в онлайн формате. По доброй традиции мы собиралисб с гостями обсудить анонсы от Apple и планы на лето. Гости те же, что и год назад. И те же, что и два года назад. Так что, заодно обсудили и то, как получилось применять новинки прошлых лет в своих проектах.
+Как вообще была новая конференция? В чем отличие от прошлого года. Кому может пригодиться Xcode Cloud, и чем он все же плох? Новые iOS и macOS – работа над стабильностью? И, да, теперь можно писать приложения на iPad. И все же – нет, это не Xcode. А также – развитие SwiftUI, новые API, улучшения старых.
+Apple в этих обновлениях уделила много внимания сплочению семей, команд, друзей. Совместные просмотры кино через FaceTime с друзьями с одной стороны, и возможность настроить уведомления об изменениях состояния здоровья для близких родственников – с другой. Кроме того, поговорили о том, как Apple борется с информационной перегрузкой, и как с ней предстоит бороться нам, разработчикам. Ну и никак не могли обойти стороной новые фичи по ограничению трекинга пользователей со стороны сайтов и приложений. Актуальная тема, что сказать.
+Как ни крути, конференция все же удалась, и на ближайшие месяцы у нас есть, чем заняться.
+
+Наши гости:
+Анастасия Золотых, iOS техлид, Okko, https://twitter.com/kotvaska https://instagram.com/kotvaska24
+
+Игорь Малеваный, Senior iOS engineer, FintechFarm, https://ihor.pro https://github.com/multimediasuite/
+
+Иван Парфенчук, мобильный разработчик, Visma Local Government, https://theivan.io https://twitter.com/parfenchuk
+
+Ведущий подкаста:
+Данис Тазетдинов, адвокат платформ Apple, Apple Competency Head в EPAM, https://twitter.com/edeniska
+
+Посмотреть этот выпуск: https://www.youtube.com/watch?v=a19Dsa0Imtk
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>С кем лучше говорить о продуктах Google? Ну конечно же! Мы пригласили в гости Звиада Кардаву, DevRel Google, с которым и обсудим Google I/O и Fuchsia</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[WWDC в этом году снова проходит в онлайн формате. По доброй традиции мы собиралисб с гостями обсудить анонсы от Apple и планы на лето. Гости те же, что и год назад. И те же, что и два года назад. Так что, заодно обсудили и то, как получилось применять новинки прошлых лет в своих проектах.<br/><br/>
+Как вообще была новая конференция? В чем отличие от прошлого года. Кому может пригодиться Xcode Cloud, и чем он все же плох? Новые iOS и macOS – работа над стабильностью? И, да, теперь можно писать приложения на iPad. И все же – нет, это не Xcode. А также – развитие SwiftUI, новые API, улучшения старых.<br/><br/>
+Apple в этих обновлениях уделила много внимания сплочению семей, команд, друзей. Совместные просмотры кино через FaceTime с друзьями с одной стороны, и возможность настроить уведомления об изменениях состояния здоровья для близких родственников – с другой. Кроме того, поговорили о том, как Apple борется с информационной перегрузкой, и как с ней предстоит бороться нам, разработчикам. Ну и никак не могли обойти стороной новые фичи по ограничению трекинга пользователей со стороны сайтов и приложений. Актуальная тема, что сказать.<br/><br/>
+Как ни крути, конференция все же удалась, и на ближайшие месяцы у нас есть, чем заняться.<br/><br/>
+Наши гости:<br/><br/>
+Анастасия Золотых, iOS техлид, Okko, Twitter: <a href="https://twitter.com/kotvaska">@kotvaska</a>, Instagram <a href="https://instagram.com/kotvaska24</a>@kotvaska24</a><br/><br/>
+Игорь Малеваный, Senior iOS engineer, FintechFarm, <a href="https://ihor.pro">ihor.pro"</a>, GitHub: <a href="https://github.com/multimediasuite/">multimediasuite</a><br/><br/>
+Иван Парфенчук, мобильный разработчик, Visma Local Government, <a href="https://theivan.io">theivan.io</a>, Twitter: <a href="https://twitter.com/parfenchuk">@parfenchuk</a><br/><br/>
+Ведущий подкаста:<br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>, Apple Competency Head в EPAM.<br/><br/>
+<a href="https://www.youtube.com/watch?v=a19Dsa0Imtk">Посмотреть выпуск на YouTube<a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1066286284-mobilepeopletalks-mpt-s03e07-wwdc21.mp3" length="123776191"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
         </item>
     </channel>
