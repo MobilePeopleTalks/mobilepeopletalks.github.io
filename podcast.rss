@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Sat, 03 Jul 2021 10:00:53 +0000</pubDate>
-        <lastBuildDate>Sat, 03 Jul 2021 10:00:53 +0000</lastBuildDate>
+        <pubDate>Sat, 13 Nov 2021 16:38:24 +0000</pubDate>
+        <lastBuildDate>Sat, 13 Nov 2021 16:38:24 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -1612,6 +1612,57 @@ CI инструменты - https://github.com/avito-tech/avito-android
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1080673684-mobilepeopletalks-mpt-s03e09-builds.mp3" length="121266587"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1158707047</guid>
+            <title>Поговорим о “вау эффектах”, или как жизнь формирует UX (или может UX формирует жизнь)</title>
+            <pubDate>Sat, 13 Nov 2021 16:38:24 +0000</pubDate>
+            <link>https://www.youtube.com/watch?v=Ku-tKCcUiUE</link>
+            <itunes:duration>00:46:33</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <description>После продолжительного отпуска, мы, наконец, решили стартануть четвертый сезон. И начали с темы, которой ни разу еще не касались, но которая играет очень важную роль в успехе мобильных приложений. А именно – поговорили про ценность UX, про инфляцию «вау-эффекта», про то, какие сейчас тренды, и, вообще, почему куча приложений ужасны в использовании (особенно те, что ориентированы на бизнес), и как это исправить.
+
+Чтобы помочь разобраться во всем этом, в гости к нам заглянул арт-директор компании Distillery Михаил Никипелов, он уже давно занимается арт-дирекшеном и дизайном для веб и мобильных платформ, настройкой дизайн-процессов. А ещё он постоянный спикер и преподаватель Skillbox.
+
+Параллельно мы ответили на кучу сопутствующих вопросов: что вообще такое UX, чем он отличается от UI (особенно в контексте мобилки)? Какой набор знаний про UX необходим разработчику? Можно ли измерить счастье пользователей, и как, если да? Ну и много-много других вопросов.
+
+Добро пожаловать в новый сезон Mobile People Talks!
+
+Наш гость:
+Михаил Никипелов, арт-директор Distillery.
+
+Полезные ссылки:
+10 эвристик юзабилити Якоба Нильсена, проиллюстрированных дизайн-решениями Revolut - https://ux.pub/10-evristik-yuzabiliti-yakoba-nilsena-proillyustrirovannyh-dizayn-resheniyami-revolut/
+
+Ведущие подкаста:
+Александр Денисов, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM, https://twitter.com/ShuregDenisov
+Владимир Иванов, активный спикер, член программного комитета Mobius, https://twitter.com/vvsevolodovich https://vvsevolodovich.dev
+Данис Тазетдинов, адвокат платформ Apple, Apple Competency Head в EPAM, https://twitter.com/edeniska
+
+Посмотреть этот выпуск: https://www.youtube.com/watch?v=Ku-tKCcUiUE
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>После продолжительного отпуска, мы, наконец, решили стартануть четвертый сезон.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[И начали с темы, которой ни разу еще не касались, но которая играет очень важную роль в успехе мобильных приложений. А именно – поговорили про ценность UX, про инфляцию «вау-эффекта», про то, какие сейчас тренды, и, вообще, почему куча приложений ужасны в использовании (особенно те, что ориентированы на бизнес), и как это исправить.<br/><br/>
+Чтобы помочь разобраться во всем этом, в гости к нам заглянул арт-директор компании Distillery Михаил Никипелов, он уже давно занимается арт-дирекшеном и дизайном для веб и мобильных платформ, настройкой дизайн-процессов. А ещё он постоянный спикер и преподаватель Skillbox.<br/><br/>
+Параллельно мы ответили на кучу сопутствующих вопросов: что вообще такое UX, чем он отличается от UI (особенно в контексте мобилки)? Какой набор знаний про UX необходим разработчику? Можно ли измерить счастье пользователей, и как, если да? Ну и много-много других вопросов.<br/><br/>
+Добро пожаловать в новый сезон Mobile People Talks!<br/><br/>
+Наш гость:<br/>
+Михаил Никипелов, арт-директор Distillery.<br/><br/>
+Полезные ссылки:<br/>
+<a href="https://ux.pub/10-evristik-yuzabiliti-yakoba-nilsena-proillyustrirovannyh-dizayn-resheniyami-revolut/">10 эвристик юзабилити Якоба Нильсена, проиллюстрированных дизайн-решениями Revolut</a><br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>, Apple Competency Head в EPAM.<br/><br/>
+<a href="https://www.youtube.com/watch?v=Ku-tKCcUiUE">Посмотреть выпуск на YouTube<a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1158707047-mobilepeopletalks-mpt-s04e01-ux-and-wow.mp3" length="76965791"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-K5Q39PbiOfs121fi-GWyoxg-t3000x3000.jpg"/>
         </item>
     </channel>
 </rss>
