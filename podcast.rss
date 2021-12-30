@@ -3,8 +3,8 @@
     <channel>
         <title>Mobile People Talks</title>
         <link>http://soundcloud.com/mobilepeopletalks</link>
-        <pubDate>Fri, 03 Dec 2021 12:07:24 +0000</pubDate>
-        <lastBuildDate>Fri, 03 Dec 2021 12:07:24 +0000</lastBuildDate>
+        <pubDate>Thu, 30 Dec 2021 07:40:19 +0000</pubDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:40:19 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>ru</language>
         <copyright>Mobile People Talks</copyright>
@@ -15,7 +15,6 @@
 Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки:
 Александр Денисов, организатор GDG Moscow, создатель канала FlutterRussia, Co-Head of Flutter Competency in EPAM.
 Владимир Иванов, активный спикер, член программного комитета Mobius.
-Кирилл Розов, организатор School.kt, автор канала об Android разработке Android Broadcast.
 Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки.
 У подкаста есть свой канал - https://t.me/MobilePeopleTalks, а еще нам можно написать по почте mobilepeopletalks@gmail.com
         </description>
@@ -31,9 +30,6 @@
                 <a href="https://vvsevolodovich.dev">blog</a>, 
                 <a href="https://twitter.com/vvsevolodovich">Twitter @vvsevolodovich</a>,
                 <a href="t.me/vvsevolodovich">Telegram @vvsevolodovich</a>.<br/><br/>
-Кирилл Розов, организатор School.kt, автор канала об Android разработке Android Broadcast -
-                <a href="https://t.me/krlrozov">Telegram @krlrozov</a> (<a href="https://t.me/android_broadcast">канал Android Broadcast</a>)
-                <a href="https://bkug.by/course/">SchoolKt</a>.<br/><br/>
 Данис Тазетдинов, драйвер мобильного комьюнити EPAM, евангелист платформ Apple, автор канала о новостях в мире iOS разработки -
                 <a href="https://t.me/edeniska">Telegram @edeniska</a> (<a href="https://t.me/AppleDevNews">канал Apple Developer News</a>),
                 <a href="https://twitter.com/edeniska">Twitter @edeniska</a>.<br/><br/>
@@ -1706,6 +1702,62 @@ CI инструменты - https://github.com/avito-tech/avito-android
             </content:encoded>
             <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1170587173-mobilepeopletalks-chto-stroyat-mobilnye-arkhitektory.mp3" length="67842007"/>
             <itunes:image href="https://i1.sndcdn.com/artworks-K5Q39PbiOfs121fi-GWyoxg-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1187112388</guid>
+            <title>Итоги 2021 года</title>
+            <pubDate>Thu, 30 Dec 2021 07:40:19 +0000</pubDate>
+            <link>https://soundcloud.com/mobilepeopletalks/mpt-s04e03-2021-in-review</link>
+            <itunes:duration>01:23:13</itunes:duration>
+            <itunes:author>Mobile People Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:season>4</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <description>Мы перешли на новый формат (начали записываться в прямом эфире), записали 11 эпизодов (считая этот), познакомились с кучей интересных гостей и ответили на тонну ваших вопросов. Но это наши собственные итоги, а сколько всего нового и интересного произошло за этот год в мире мобильной разработки? Обсуждать – не переобсуждать 🙂
+
+Поэтому итоговый выпуск 2021-го года мы решили посвятить именно этому, тоесть подведению итогов года в мобильном мире. Произошло море всяких важных вещей:  куча релизов (Flutter 2, JetPack  Compose,  Fuchsia и тд), развитие языков (Swift,  Koltin, Dart), технологий и экосистем, новости комьюнити (куда завело нас ковидное настоящее). Таким образом, тем для обсуждения куча!
+
+Наш гость:
+Артем Багрицевич, Chief Software Engineer, EPAM, Rolling Scopes School Android Head, https://www.linkedin.com/in/artem-bagritsevich-227522b7
+
+Полезные ссылки:
+
+Новости мобильной разработки – https://mobilepeople.news
+
+Подкаст Apple Treats - https://podcasts.apple.com/us/podcast/apple-treats/id1553249730
+
+Mobile People Series - https://www.youtube.com/watch?v=51qd3cR8OoM
+
+Mobile Z-Days 2022 - https://community-z.com/events/mobile-z-days
+
+Ведущие подкаста:
+Александр Денисов, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM, https://twitter.com/ShuregDenisov
+Владимир Иванов, активный спикер, член программного комитета Mobius, https://twitter.com/vvsevolodovich https://vvsevolodovich.dev
+Данис Тазетдинов, адвокат платформ Apple, Apple Competency Head в EPAM, https://twitter.com/edeniska
+
+Посмотреть этот выпуск: https://www.youtube.com/watch?v=SIeoIBYZVHI
+
+Пишите нам: mobilepeopletalks@gmail.com</description>
+            <itunes:subtitle>Вот и еще один год пролетел, настала пора подводить итоги.</itunes:subtitle>
+            <content:encoded>
+                <![CDATA[Вот и еще один год пролетел, настала пора подводить итоги.<br/><br/>
+Мы перешли на новый формат (начали записываться в прямом эфире), записали 11 эпизодов (считая этот), познакомились с кучей интересных гостей и ответили на тонну ваших вопросов. Но это наши собственные итоги, а сколько всего нового и интересного произошло за этот год в мире мобильной разработки? Обсуждать – не переобсуждать 🙂<br/><br/>
+Поэтому итоговый выпуск 2021-го года мы решили посвятить именно этому, тоесть подведению итогов года в мобильном мире. Произошло море всяких важных вещей:  куча релизов (Flutter 2, JetPack  Compose,  Fuchsia и тд), развитие языков (Swift,  Koltin, Dart), технологий и экосистем, новости комьюнити (куда завело нас ковидное настоящее). Таким образом, тем для обсуждения куча!<br/><br/>
+Наш гость:<br/>
+Артем Багрицевич, Chief Software Engineer, EPAM, Rolling Scopes School Android Head, <a href="https://www.linkedin.com/in/artem-bagritsevich-227522b7">LinkedIn</a><br/><br/>
+Полезные ссылки:<br/>
+Новости мобильной разработки – <a href="https://mobilepeople.news">MobilePeople.news</a><br/><br/>
+<a href="https://podcasts.apple.com/us/podcast/apple-treats/id1553249730">Подкаст Apple Treats</a><br/><br/>
+<a href="https://www.youtube.com/watch?v=51qd3cR8OoM">Mobile People Series</a><br/><br/>
+<a href="https://community-z.com/events/mobile-z-days">Mobile Z-Days 2022</a><br/><br/>
+Ведущие подкаста:<br/>
+<a href="https://twitter.com/ShuregDenisov">Александр Денисов</a>, организатор GDG Moscow, создатель канала FlutterRussia, Flutter Competency Co-Head в EPAM.<br/><br/>
+<a href="https://twitter.com/vvsevolodovich">Владимир Иванов</a>, <a href="https://vvsevolodovich.dev">vvsevolodovich.dev</a>, активный спикер, член программного комитета Mobius.<br/><br/>
+<a href="https://twitter.com/edeniska">Данис Тазетдинов</a>, адвокат платформ Apple, ведущий подкаста <a href="https://podcasts.apple.com/podcast/apple-treats/id1553249730">Apple Treats</a> автор канала о новостях в мире iOS разработки <a href="https://t.me/AppleDevNews">Apple Developer News</a>, Apple Competency Head в EPAM.<br/><br/>
+<a href="https://www.youtube.com/watch?v=SIeoIBYZVHI">Посмотреть выпуск на YouTube<a>.]]>
+            </content:encoded>
+            <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1187112388-mobilepeopletalks-mpt-s04e03-2021-in-review.mp3" length="144849817"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-AWVksy3x2sRmklRt-yalX3g-t3000x3000.jpg"/>
         </item>
     </channel>
 </rss>
